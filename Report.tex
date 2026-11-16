@@ -1,0 +1,167 @@
+% !TeX program = pdflatex
+\documentclass[11pt]{article}
+\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+% Keep tables at their input position, beneath the relevant headings.
+\floatplacement{table}{H}
+\usepackage[justification=centering]{caption}
+\usepackage[hidelinks]{hyperref}
+\usepackage{tikz}
+\usepackage{fvextra}
+
+\title{How do sportsbooks differ in their pricing strategies across player-prop products} %and what role might behavioral biases play in these differences?
+\author{Sam Officer}
+\date{} % leave empty to hide date
+
+\begin{document}
+\raggedbottom
+
+\section{Summary Statistics}
+
+\subsection{Overall Summary by Bookmaker}
+
+\input{../MetricOdds/overall_overround_by_bookmaker.tex}
+
+\subsection{Product-Level Summaries by Bookmaker}
+
+\input{../MetricOdds/latex_tables/overround_BetMGM.tex}
+
+\input{../MetricOdds/latex_tables/overround_BetRivers.tex}
+
+\input{../MetricOdds/latex_tables/overround_Caesars.tex}
+
+\input{../MetricOdds/latex_tables/overround_DraftKings.tex}
+
+\input{../MetricOdds/latex_tables/overround_FanDuel.tex}
+
+\input{../MetricOdds/latex_tables/overround_William_Hill_US.tex}
+
+% Start methodology after all summary tables.
+\clearpage
+\section{Methodology}
+
+\subsection{Construction of the Quoted Overround}
+
+The analysis measures combined Over/Under pricing using the excess
+overround. Each observation pairs a sportsbook's Over and Under quotes
+for the same game, player, prop market, threshold, and recorded observation
+time. The baseline uses half-point thresholds to avoid integer-threshold
+pushes. Incomplete pairs are excluded, while the original prices and
+update timestamps are retained.
+
+Let $A_{cbts}$ denote American odds for contract $c$, sportsbook $b$,
+observation time $t$, and side $s \in \{O,U\}$. Decimal odds, including
+the return of the original stake, are calculated as
+\begin{equation}
+d_{cbts} =
+\begin{cases}
+1 + \dfrac{A_{cbts}}{100}, & A_{cbts}>0, \\[6pt]
+1 + \dfrac{100}{|A_{cbts}|}, & A_{cbts}<0.
+\end{cases}
+\end{equation}
+
+Following the conventional calculation discussed by Hegarty and Whelan
+\cite[p.~4, equation~(1)]{hegartywhelan2025}, the excess overround is
+\begin{equation}
+\label{eq:overround}
+\operatorname{OR}_{cbt}
+=
+\frac{1}{d_{cbtO}}
++
+\frac{1}{d_{cbtU}}
+-1.
+\end{equation}
+
+For reporting and estimation, the variable is expressed in
+percentage-point units:
+\begin{equation}
+\operatorname{OR}^{\mathrm{pp}}_{cbt}
+=
+100 \operatorname{OR}_{cbt}.
+\end{equation}
+
+For example, American odds of $-110$ on both sides produce decimal odds
+of approximately $1.9091$, giving
+$\operatorname{OR}_{cbt}=0.047619$ and
+$\operatorname{OR}^{\mathrm{pp}}_{cbt}=4.7619$.
+Hegarty and Whelan use the term overround for the sum of inverse decimal
+odds; equation~\eqref{eq:overround} measures its excess above one.
+
+The constructed variable summarizes the combined quoted pricing of the
+two outcomes. Comparisons across sportsbooks match the game, player,
+market, threshold, and recorded observation time, allowing differences
+in the quoted overround to be examined for identical contracts.
+
+\paragraph{Limitations.}
+The excess overround is a quoted pricing measure rather than a direct
+estimate of realized sportsbook profits or expected bettor losses.
+Hegarty and Whelan \cite[pp.~5--7]{hegartywhelan2025} explain that the
+conventional expected-return interpretation relies on equal expected
+returns across outcomes and can fail under unequal margin allocation.
+The measure also conceals how prices are distributed between Over and
+Under, so the original side-specific prices are retained.
+Exact-threshold matching restricts findings to shared contracts and may
+exclude important threshold disagreements. Common observation timestamps
+do not guarantee simultaneous updates or executable offers; quote ages
+therefore require examination. Observed pricing differences alone do
+not identify customer demand, risk exposure, or firms' motives.
+
+% Keep the regression specification and its explanation together.
+\clearpage
+\subsection{Bookmaker and Product Differences in Overround}
+
+To examine whether differences between DraftKings and FanDuel vary
+across player-prop products, we estimate:
+\begin{equation}
+\label{eq:bookmaker_market}
+\mathrm{Overround}_{i}
+=
+\alpha
++ \delta D_i
++ \sum_{m \in \mathcal{M}^{*}} \beta_m M_{im}
++ \sum_{m \in \mathcal{M}^{*}} \theta_m (D_i M_{im})
++ \varepsilon_i.
+\end{equation}
+
+Each observation $i$ is a complete Over/Under quote pair for a given
+sportsbook, game, player, product, threshold, and recorded observation
+time. The dependent variable is excess overround multiplied by 100,
+so coefficient differences are measured in percentage points.
+The sample contains observations from DraftKings and FanDuel.
+The indicator $D_i$ equals one for DraftKings and zero for FanDuel.
+The indicator $M_{im}$ equals one if observation $i$ belongs to
+product $m$ and zero otherwise. Passing completions is the reference
+product, and $\mathcal{M}^{*}$ contains the remaining products.
+
+The intercept $\alpha$ is FanDuel's mean overround for passing
+completions. The coefficient $\delta$ measures the DraftKings minus
+FanDuel difference for completions. For each other product $m$,
+$\beta_m$ measures its difference from completions at FanDuel.
+The interaction coefficient $\theta_m$ measures how the
+DraftKings--FanDuel difference for product $m$ differs from their
+difference for completions. Consequently, the difference between
+sportsbooks for product $m$ is $\delta+\theta_m$.
+
+This specification describes differences in observed overrounds.
+Without additional controls or contract matching, the estimates may
+also reflect differences in the games, players, thresholds, and
+observation times represented in each sportsbook's product sample.
+They do not identify causal effects or the reasons for firms'
+pricing decisions.
+
+\begin{thebibliography}{9}
+
+\bibitem{hegartywhelan2025}
+Hegarty, T., and Whelan, K. (2025).
+\textit{Estimating Expected Loss Rates in Betting Markets:
+Theory and Evidence}.
+Revised draft, April 2025, University College Dublin.
+\url{https://www.karlwhelan.com/Papers/Overround.pdf}.
+
+\end{thebibliography}
+
+\end{document}

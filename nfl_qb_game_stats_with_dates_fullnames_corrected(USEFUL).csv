@@ -1,0 +1,716 @@
+Game ID,Home Team,Away Team,Player Name,Yards,First Downs,Attempts,Completions,Avg Yards,Sacks,Sack Yards,Touchdowns,Longest,Interceptions,Rating,Pocket Time,Avg Pocket Time,Dropped Passes,Defended Passes,Throw Aways,Spikes,Redzone Attempts,game_date
+88b69b59-d7b9-4572-84d8-6ec00f9af626,Kansas City Chiefs,Detroit Lions,patrick mahomes,226,10,39,21,5.795,0,0,2,34,1,77.5,119.73099999999997,3.07,5,4,2,0,5,2023-09-08
+88b69b59-d7b9-4572-84d8-6ec00f9af626,Kansas City Chiefs,Detroit Lions,jared goff,253,11,35,22,7.229,1,3,1,33,0,94.1,83.687,2.391,3,4,1,1,2,2023-09-08
+29572e8e-e260-43ea-85d8-25b05dc2b8cb,New Orleans Saints,Tennessee Titans,derek carr,305,12,33,23,9.242,4,23,1,45,1,96.1,94.122,2.852,0,4,0,0,7,2023-09-10
+29572e8e-e260-43ea-85d8-25b05dc2b8cb,New Orleans Saints,Tennessee Titans,ryan tannehill,198,8,34,16,5.824,3,17,0,46,3,28.8,101.28,2.979,3,11,1,0,6,2023-09-10
+2cc52209-4aae-43e5-9c25-65407907a01b,Indianapolis Colts,Jacksonville Jaguars,anthony richardson,223,12,37,24,6.027,4,8,1,39,1,79.0,112.42500000000004,3.039,2,3,0,0,3,2023-09-10
+2cc52209-4aae-43e5-9c25-65407907a01b,Indianapolis Colts,Jacksonville Jaguars,gardner minshew,0,0,2,0,0.0,0,0,0,0,0,39.6,6.536,3.268,0,1,0,0,2,2023-09-10
+2cc52209-4aae-43e5-9c25-65407907a01b,Indianapolis Colts,Jacksonville Jaguars,trevor lawrence,241,10,32,24,7.531,2,4,2,29,1,103.8,73.25999999999998,2.289,1,2,0,0,4,2023-09-10
+36710c13-8f70-4a13-bd70-e1bfc74c3ab8,Minnesota Vikings,Tampa Bay Buccaneers,kirk cousins,344,15,44,33,7.818,2,16,2,42,1,102.8,115.87,2.633,1,3,0,0,6,2023-09-10
+36710c13-8f70-4a13-bd70-e1bfc74c3ab8,Minnesota Vikings,Tampa Bay Buccaneers,baker mayfield,173,9,34,21,5.088,1,4,2,28,0,94.4,76.47599999999998,2.249,1,5,2,0,4,2023-09-10
+6651d05f-21f5-4e6c-a595-43358844d80a,Washington Commanders,Arizona Cardinals,sam howell,202,10,31,19,6.516,6,46,1,32,1,77.6,100.80300000000004,3.252,2,6,2,0,3,2023-09-10
+6651d05f-21f5-4e6c-a595-43358844d80a,Washington Commanders,Arizona Cardinals,josh dobbs,132,9,30,21,4.4,3,18,0,31,0,78.8,81.486,2.716,0,8,0,0,5,2023-09-10
+84b20c0a-0be4-4efd-9359-5e31f912ad8a,Pittsburgh Steelers,San Francisco 49ers,kenny pickett,232,9,46,31,5.043,5,34,1,31,2,68.4,126.568,2.751,1,3,0,1,11,2023-09-10
+84b20c0a-0be4-4efd-9359-5e31f912ad8a,Pittsburgh Steelers,San Francisco 49ers,brock purdy,220,13,29,19,7.586,3,17,2,23,0,111.3,75.785,2.613,2,4,1,0,3,2023-09-10
+85bf59a4-8df7-45c9-9de5-bced0dab7aa2,Cleveland Browns,Cincinnati Bengals,deshaun watson,154,9,29,16,5.31,3,10,1,33,1,67.3,88.80599999999998,3.062,3,4,0,0,3,2023-09-10
+85bf59a4-8df7-45c9-9de5-bced0dab7aa2,Cleveland Browns,Cincinnati Bengals,jake browning,0,0,1,0,0.0,0,0,0,0,0,39.6,1.98,1.98,0,1,0,0,0,2023-09-10
+85bf59a4-8df7-45c9-9de5-bced0dab7aa2,Cleveland Browns,Cincinnati Bengals,joe burrow,82,3,31,14,2.645,2,15,0,12,0,52.2,68.23599999999999,2.201,3,3,1,0,0,2023-09-10
+a3ea95c6-4579-4df3-b6ca-fc94985c8772,Atlanta Falcons,Carolina Panthers,desmond ridder,115,6,18,15,6.389,4,24,1,34,0,111.8,52.67900000000001,2.927,1,0,0,0,2,2023-09-10
+a3ea95c6-4579-4df3-b6ca-fc94985c8772,Atlanta Falcons,Carolina Panthers,bryce young,146,9,38,20,3.842,2,19,1,14,2,48.8,110.59599999999996,2.91,0,3,7,0,1,2023-09-10
+fb9cacd2-fa41-4067-a387-1c2086cfc729,Baltimore Ravens,Houston Texans,lamar jackson,169,8,22,17,7.682,4,14,0,29,1,79.5,54.78,2.49,1,1,1,0,5,2023-09-10
+fb9cacd2-fa41-4067-a387-1c2086cfc729,Baltimore Ravens,Houston Texans,c.j. stroud,242,13,44,28,5.5,5,46,0,26,0,78.0,103.89199999999998,2.361,2,3,0,1,1,2023-09-10
+67727342-163e-40ad-9231-c967a1963fd0,Chicago Bears,Green Bay Packers,justin fields,216,12,37,24,5.838,4,27,1,23,1,78.2,112.677,3.045,2,4,1,0,5,2023-09-10
+67727342-163e-40ad-9231-c967a1963fd0,Chicago Bears,Green Bay Packers,jordan love,245,10,27,15,9.074,1,8,3,51,0,123.2,71.69999999999999,2.656,2,3,0,0,4,2023-09-10
+7fa08811-7cf6-4f09-a3b6-f35e91ab055e,New England Patriots,Philadelphia Eagles,mac jones,316,18,54,35,5.852,2,10,3,32,1,91.3,122.49899999999998,2.268,5,7,0,0,5,2023-09-10
+7fa08811-7cf6-4f09-a3b6-f35e91ab055e,New England Patriots,Philadelphia Eagles,jalen hurts,170,8,33,22,5.152,3,16,1,23,0,89.2,85.791,2.6,2,2,3,0,1,2023-09-10
+96f5c24c-b61f-4c3c-b93d-e576cdb7cf15,Seattle Seahawks,Los Angeles Rams,geno smith,112,7,26,16,4.308,2,17,1,28,0,84.1,68.053,2.617,2,1,2,0,3,2023-09-10
+96f5c24c-b61f-4c3c-b93d-e576cdb7cf15,Seattle Seahawks,Los Angeles Rams,matthew stafford,334,17,38,24,8.789,0,0,0,44,0,91.3,95.174,2.505,2,1,1,0,4,2023-09-10
+9c9fb62d-5350-49a8-8be1-ef614a1fd2de,Los Angeles Chargers,Miami Dolphins,justin herbert,229,10,33,23,6.939,3,29,1,36,0,99.2,87.74200000000002,2.659,1,1,2,0,5,2023-09-10
+9c9fb62d-5350-49a8-8be1-ef614a1fd2de,Los Angeles Chargers,Miami Dolphins,tua tagovailoa,466,23,45,28,10.356,0,0,3,47,1,110.0,106.31000000000002,2.362,2,10,1,0,9,2023-09-10
+bf8bf897-a90f-4b1e-a993-d1982d1aeb0a,Denver Broncos,Las Vegas Raiders,russell wilson,177,11,34,27,5.206,2,11,2,21,0,108.0,96.53099999999998,2.839,0,1,1,1,7,2023-09-10
+bf8bf897-a90f-4b1e-a993-d1982d1aeb0a,Denver Broncos,Las Vegas Raiders,jimmy garoppolo,200,11,26,20,7.692,0,0,2,21,1,107.9,63.949,2.46,0,4,0,0,5,2023-09-10
+2ae69508-068e-4f79-a0f0-074e1411547a,New York Giants,Dallas Cowboys,tyrod taylor,6,0,2,2,3.0,0,0,0,9,0,79.2,3.757,1.879,0,0,0,0,0,2023-09-11
+2ae69508-068e-4f79-a0f0-074e1411547a,New York Giants,Dallas Cowboys,daniel jones,104,5,28,15,3.714,7,47,0,24,2,32.4,78.48500000000001,2.803,3,5,1,0,1,2023-09-11
+2ae69508-068e-4f79-a0f0-074e1411547a,New York Giants,Dallas Cowboys,cooper rush,0,0,1,0,0.0,0,0,0,0,0,39.6,1.243,1.243,0,0,0,0,0,2023-09-11
+2ae69508-068e-4f79-a0f0-074e1411547a,New York Giants,Dallas Cowboys,dak prescott,143,8,24,13,5.958,0,0,0,49,0,72.0,45.606,1.9,4,4,0,0,9,2023-09-11
+110704e9-21f9-4ef8-ab83-df09573c1a9f,New York Jets,Buffalo Bills,aaron rodgers,0,0,1,0,0.0,1,10,0,0,0,39.6,6.333,6.333,0,0,1,0,0,2023-09-12
+110704e9-21f9-4ef8-ab83-df09573c1a9f,New York Jets,Buffalo Bills,zach wilson,140,7,21,14,6.667,2,13,1,24,1,81.4,61.17099999999999,2.913,0,1,3,0,2,2023-09-12
+110704e9-21f9-4ef8-ab83-df09573c1a9f,New York Jets,Buffalo Bills,josh allen,236,11,41,29,5.756,5,19,1,26,3,62.7,101.203,2.468,0,3,1,1,2,2023-09-12
+c1052576-390a-49b8-9101-88e7d802b464,Philadelphia Eagles,Minnesota Vikings,jalen hurts,193,4,23,18,8.391,4,22,1,63,1,98.0,75.94999999999999,3.302,0,2,1,0,1,2023-09-15
+c1052576-390a-49b8-9101-88e7d802b464,Philadelphia Eagles,Minnesota Vikings,kirk cousins,364,19,44,31,8.273,2,18,4,62,0,125.6,119.628,2.719,3,2,1,0,4,2023-09-15
+06d861af-db7b-4dd0-a916-e91f5c74e2c3,Tampa Bay Buccaneers,Chicago Bears,baker mayfield,317,10,34,26,9.324,0,0,1,70,0,114.5,91.933,2.704,1,2,2,0,4,2023-09-17
+06d861af-db7b-4dd0-a916-e91f5c74e2c3,Tampa Bay Buccaneers,Chicago Bears,justin fields,211,9,29,16,7.276,6,42,1,33,2,61.1,99.361,3.426,1,6,1,0,0,2023-09-17
+091f8aa6-6844-4584-82fc-ec3342a76557,Atlanta Falcons,Green Bay Packers,desmond ridder,237,10,32,19,7.406,1,2,1,45,1,79.8,80.119,2.504,2,4,2,0,6,2023-09-17
+091f8aa6-6844-4584-82fc-ec3342a76557,Atlanta Falcons,Green Bay Packers,jordan love,151,10,25,14,6.04,1,11,3,32,0,113.5,59.290000000000006,2.372,0,5,0,0,4,2023-09-17
+1019abc3-1b91-4bae-a733-37553104838d,Houston Texans,Indianapolis Colts,c.j. stroud,384,18,47,30,8.17,6,47,2,32,0,103.5,132.86199999999997,2.827,1,2,2,2,6,2023-09-17
+1019abc3-1b91-4bae-a733-37553104838d,Houston Texans,Indianapolis Colts,anthony richardson,56,4,10,6,5.6,0,0,0,15,0,75.4,24.191000000000003,2.419,1,1,1,0,0,2023-09-17
+1019abc3-1b91-4bae-a733-37553104838d,Houston Texans,Indianapolis Colts,gardner minshew,171,9,23,19,7.435,0,0,1,43,0,112.1,50.829,2.21,0,0,1,0,4,2023-09-17
+134e5c18-f21d-40c6-a3ac-27aaaf490fd2,Detroit Lions,Seattle Seahawks,jared goff,323,17,35,28,9.229,2,7,3,39,1,121.8,83.45299999999997,2.384,2,2,1,0,3,2023-09-17
+134e5c18-f21d-40c6-a3ac-27aaaf490fd2,Detroit Lions,Seattle Seahawks,geno smith,328,18,41,32,8.0,1,17,2,31,0,116.3,102.839,2.508,0,2,2,1,8,2023-09-17
+2917e52e-5e28-4e78-a6b9-beabc5c5ab18,Tennessee Titans,Los Angeles Chargers,ryan tannehill,246,9,24,20,10.25,5,46,1,70,0,123.3,71.94599999999998,2.998,2,1,0,0,2,2023-09-17
+2917e52e-5e28-4e78-a6b9-beabc5c5ab18,Tennessee Titans,Los Angeles Chargers,justin herbert,305,14,41,27,7.439,3,24,2,42,0,104.2,105.757,2.579,1,5,2,0,10,2023-09-17
+33cfcb29-b952-413c-873c-49e1b04c2af1,Cincinnati Bengals,Baltimore Ravens,joe burrow,222,13,41,27,5.415,1,6,2,32,1,85.6,87.577,2.136,2,7,2,0,13,2023-09-17
+33cfcb29-b952-413c-873c-49e1b04c2af1,Cincinnati Bengals,Baltimore Ravens,lamar jackson,237,12,33,24,7.182,0,0,2,52,0,112.8,75.679,2.293,2,2,0,0,4,2023-09-17
+475473bd-aa3b-48d2-ab10-7778e5b52421,Buffalo Bills,Las Vegas Raiders,josh allen,274,17,37,31,7.405,2,7,3,40,0,124.5,84.866,2.294,1,1,1,0,11,2023-09-17
+475473bd-aa3b-48d2-ab10-7778e5b52421,Buffalo Bills,Las Vegas Raiders,jimmy garoppolo,185,10,24,16,7.708,0,0,1,23,2,68.9,63.078,2.628,0,3,1,0,1,2023-09-17
+f9966c0e-a62f-49f4-8ed8-11eb088e8f2d,Jacksonville Jaguars,Kansas City Chiefs,christian kirk,-1,0,1,1,-1.0,0,0,0,-1,0,79.2,0.822,0.822,0,0,0,0,0,2023-09-17
+f9966c0e-a62f-49f4-8ed8-11eb088e8f2d,Jacksonville Jaguars,Kansas City Chiefs,trevor lawrence,216,14,41,22,5.268,4,18,0,45,0,68.8,86.23,2.103,3,5,1,0,7,2023-09-17
+f9966c0e-a62f-49f4-8ed8-11eb088e8f2d,Jacksonville Jaguars,Kansas City Chiefs,patrick mahomes,305,12,41,29,7.439,1,7,2,54,1,98.1,87.741,2.14,2,7,1,0,4,2023-09-17
+10b3c063-e45a-4118-8de0-978511b11f72,Los Angeles Rams,San Francisco 49ers,matthew stafford,307,17,55,34,5.582,1,10,1,20,2,67.8,156.82,2.851,6,6,2,1,2,2023-09-17
+10b3c063-e45a-4118-8de0-978511b11f72,Los Angeles Rams,San Francisco 49ers,brock purdy,206,11,25,17,8.24,1,0,0,31,0,93.1,51.86600000000001,2.075,1,0,1,0,3,2023-09-17
+93d3eca5-4d23-4cac-b4df-478dbb5e02e5,Arizona Cardinals,New York Giants,josh dobbs,228,11,31,21,7.355,0,0,1,23,0,99.9,77.95100000000001,2.515,1,3,0,0,2,2023-09-17
+93d3eca5-4d23-4cac-b4df-478dbb5e02e5,Arizona Cardinals,New York Giants,daniel jones,321,15,37,26,8.676,3,9,2,58,1,103.5,99.03099999999998,2.677,1,5,2,0,10,2023-09-17
+8836bca8-5cf0-490d-898d-628a2aeaa567,Dallas Cowboys,New York Jets,dak prescott,255,16,38,31,6.711,1,7,2,31,0,112.2,91.268,2.402,0,2,1,0,6,2023-09-17
+8836bca8-5cf0-490d-898d-628a2aeaa567,Dallas Cowboys,New York Jets,zach wilson,170,6,27,12,6.296,3,19,1,68,3,38.1,75.33000000000001,2.79,3,4,1,1,2,2023-09-17
+9bb5672f-4968-4d61-ae96-db32e26b10bb,Denver Broncos,Washington Commanders,russell wilson,308,8,32,18,9.625,7,31,3,60,1,107.3,109.40300000000002,3.419,0,3,4,1,5,2023-09-17
+9bb5672f-4968-4d61-ae96-db32e26b10bb,Denver Broncos,Washington Commanders,sam howell,299,11,39,27,7.667,4,33,2,36,0,108.8,109.63499999999998,2.811,1,6,5,0,4,2023-09-17
+51923306-5934-45db-b49b-02c77bebff0e,New England Patriots,Miami Dolphins,mac jones,231,10,42,31,5.5,4,31,1,14,1,84.5,100.471,2.392,0,7,0,0,2,2023-09-18
+51923306-5934-45db-b49b-02c77bebff0e,New England Patriots,Miami Dolphins,tua tagovailoa,249,15,30,21,8.3,1,5,1,32,1,92.2,55.19199999999999,1.84,3,5,1,0,2,2023-09-18
+995df8e1-07b7-447a-95f7-8a7462fa3552,Carolina Panthers,New Orleans Saints,bryce young,153,8,33,22,4.636,4,14,1,22,0,87.1,91.267,2.766,1,2,2,0,2,2023-09-18
+995df8e1-07b7-447a-95f7-8a7462fa3552,Carolina Panthers,New Orleans Saints,taysom hill,8,0,1,1,8.0,0,0,0,8,0,100.0,1.589,1.589,0,0,0,0,1,2023-09-18
+995df8e1-07b7-447a-95f7-8a7462fa3552,Carolina Panthers,New Orleans Saints,derek carr,228,11,36,21,6.333,4,29,0,45,1,65.5,81.96700000000001,2.277,1,6,2,0,6,2023-09-18
+a7704921-505f-4680-a7e7-d0d1862dd970,Pittsburgh Steelers,Cleveland Browns,kenny pickett,222,6,30,15,7.4,2,22,1,71,1,71.8,71.99799999999999,2.4,2,6,1,0,0,2023-09-19
+a7704921-505f-4680-a7e7-d0d1862dd970,Pittsburgh Steelers,Cleveland Browns,deshaun watson,235,12,40,22,5.875,6,25,1,29,1,70.3,107.91799999999998,2.698,3,6,0,0,1,2023-09-19
+b475e5e4-580e-4d9d-8e4f-caf486a0d26a,San Francisco 49ers,New York Giants,brock purdy,310,13,37,25,8.378,2,10,2,40,0,111.3,89.07000000000001,2.407,1,4,3,0,6,2023-09-22
+b475e5e4-580e-4d9d-8e4f-caf486a0d26a,San Francisco 49ers,New York Giants,tyrod taylor,0,0,1,0,0.0,0,0,0,0,0,39.6,3.123,3.123,0,0,0,0,0,2023-09-22
+b475e5e4-580e-4d9d-8e4f-caf486a0d26a,San Francisco 49ers,New York Giants,daniel jones,137,6,32,22,4.281,2,16,0,18,1,64.2,84.03200000000001,2.626,2,2,1,0,0,2023-09-22
+097a36e8-c61c-4b76-b415-e6dc2da98d00,Baltimore Ravens,Indianapolis Colts,lamar jackson,202,7,31,22,6.516,4,24,0,24,0,88.4,73.59099999999998,2.374,2,1,1,0,0,2023-09-24
+097a36e8-c61c-4b76-b415-e6dc2da98d00,Baltimore Ravens,Indianapolis Colts,gardner minshew,227,9,44,27,5.159,5,39,1,34,0,82.3,121.068,2.752,4,5,2,0,5,2023-09-24
+2871c33a-b958-44c0-a690-a4ffceb7972a,Miami Dolphins,Denver Broncos,mike white,67,1,2,2,33.5,0,0,1,68,0,158.3,5.32,2.66,0,0,0,0,0,2023-09-24
+2871c33a-b958-44c0-a690-a4ffceb7972a,Miami Dolphins,Denver Broncos,tua tagovailoa,309,15,26,23,11.885,0,0,4,54,0,155.8,58.78300000000001,2.261,0,0,0,0,6,2023-09-24
+2871c33a-b958-44c0-a690-a4ffceb7972a,Miami Dolphins,Denver Broncos,russell wilson,306,13,38,23,8.053,1,12,1,46,1,83.9,101.33799999999997,2.667,0,7,2,0,7,2023-09-24
+303f0fac-ec12-4ed9-803c-99eabe0a010d,New York Jets,New England Patriots,zach wilson,157,6,36,18,4.361,3,24,0,29,0,61.9,104.20700000000002,2.895,2,5,6,1,3,2023-09-24
+303f0fac-ec12-4ed9-803c-99eabe0a010d,New York Jets,New England Patriots,mac jones,201,9,29,15,6.931,0,0,1,58,0,85.6,70.24199999999999,2.422,1,4,2,0,0,2023-09-24
+3633529a-1741-4905-81ed-08482c76ba23,Jacksonville Jaguars,Houston Texans,cj beathard,9,1,2,2,4.5,0,0,0,6,0,85.4,3.4610000000000003,1.731,0,0,0,0,0,2023-09-24
+3633529a-1741-4905-81ed-08482c76ba23,Jacksonville Jaguars,Houston Texans,trevor lawrence,279,12,40,27,6.975,0,0,1,28,1,85.3,83.094,2.077,4,3,2,0,0,2023-09-24
+3633529a-1741-4905-81ed-08482c76ba23,Jacksonville Jaguars,Houston Texans,c.j. stroud,280,11,30,20,9.333,0,0,2,68,0,118.8,64.652,2.155,2,1,1,0,4,2023-09-24
+5520fd9f-d5d2-4dbb-9713-8947dbc9f569,Cleveland Browns,Tennessee Titans,deshaun watson,289,12,33,27,8.758,3,26,2,43,0,123.4,99.157,3.005,1,0,2,0,1,2023-09-24
+5520fd9f-d5d2-4dbb-9713-8947dbc9f569,Cleveland Browns,Tennessee Titans,ryan tannehill,104,5,25,13,4.16,5,36,0,33,0,62.8,69.984,2.799,2,3,1,0,2,2023-09-24
+8fdd0e6f-d8b0-45de-8c48-967a88b159a6,Detroit Lions,Atlanta Falcons,jared goff,243,11,33,22,7.364,0,0,1,45,1,85.8,80.14600000000002,2.429,1,3,2,0,2,2023-09-24
+8fdd0e6f-d8b0-45de-8c48-967a88b159a6,Detroit Lions,Atlanta Falcons,desmond ridder,201,9,38,21,5.289,7,62,0,28,0,70.2,104.473,2.749,4,7,0,0,3,2023-09-24
+9af87d82-7907-4c5c-9f1f-4cda1d762033,Green Bay Packers,New Orleans Saints,jordan love,259,13,44,22,5.886,1,14,1,30,1,66.4,102.233,2.323,2,12,1,0,10,2023-09-24
+9af87d82-7907-4c5c-9f1f-4cda1d762033,Green Bay Packers,New Orleans Saints,jameis winston,101,3,16,10,6.313,1,8,0,28,0,80.5,31.558,1.972,0,3,0,0,0,2023-09-24
+9af87d82-7907-4c5c-9f1f-4cda1d762033,Green Bay Packers,New Orleans Saints,derek carr,103,6,18,13,5.722,3,21,1,27,0,104.6,43.556,2.42,0,3,0,0,4,2023-09-24
+b993e54b-47f5-47c0-92b3-e5c325cbce66,Washington Commanders,Buffalo Bills,sam howell,170,8,29,19,5.862,9,45,0,37,4,41.5,108.399,3.738,1,3,0,0,4,2023-09-24
+b993e54b-47f5-47c0-92b3-e5c325cbce66,Washington Commanders,Buffalo Bills,josh allen,218,10,32,20,6.813,0,0,1,35,1,79.9,83.52,2.61,3,7,1,0,3,2023-09-24
+ccdb35ce-2d0e-497e-8162-840572df94c1,Minnesota Vikings,Los Angeles Chargers,kirk cousins,367,15,50,32,7.34,4,22,3,52,1,97.7,145.80800000000002,2.916,1,6,1,0,11,2023-09-24
+ccdb35ce-2d0e-497e-8162-840572df94c1,Minnesota Vikings,Los Angeles Chargers,keenan allen,49,1,1,1,49.0,0,0,1,49,0,158.3,2.306,2.306,0,0,0,0,0,2023-09-24
+ccdb35ce-2d0e-497e-8162-840572df94c1,Minnesota Vikings,Los Angeles Chargers,justin herbert,405,21,47,40,8.617,1,9,3,35,0,123.8,92.755,1.974,1,2,0,0,3,2023-09-24
+2273ef3a-6eff-4028-824a-9e7224a323c8,Seattle Seahawks,Carolina Panthers,geno smith,296,14,36,23,8.222,2,17,1,36,1,87.3,95.39199999999998,2.65,2,1,1,0,7,2023-09-24
+2273ef3a-6eff-4028-824a-9e7224a323c8,Seattle Seahawks,Carolina Panthers,andy dalton,361,17,58,34,6.224,3,27,2,47,0,88.4,132.223,2.28,5,7,1,0,1,2023-09-24
+9e665e5b-0ab8-4ccd-a6ac-2a4d13afba63,Kansas City Chiefs,Chicago Bears,patrick mahomes,272,14,33,24,8.242,0,0,3,37,0,127.3,76.63799999999999,2.322,3,1,1,0,12,2023-09-24
+9e665e5b-0ab8-4ccd-a6ac-2a4d13afba63,Kansas City Chiefs,Chicago Bears,blaine gabbert,31,2,5,3,6.2,0,0,0,15,2,38.3,10.697,2.139,1,0,0,0,0,2023-09-24
+9e665e5b-0ab8-4ccd-a6ac-2a4d13afba63,Kansas City Chiefs,Chicago Bears,justin fields,99,5,22,11,4.5,3,12,1,29,1,58.7,59.473,2.703,1,2,2,0,6,2023-09-24
+c077107a-4497-46e7-97b1-ac323e946134,Arizona Cardinals,Dallas Cowboys,josh dobbs,189,8,21,17,9.0,2,11,1,69,0,120.0,50.005,2.381,1,1,0,0,3,2023-09-24
+c077107a-4497-46e7-97b1-ac323e946134,Arizona Cardinals,Dallas Cowboys,dak prescott,249,11,40,25,6.225,2,18,1,32,1,78.0,89.16099999999999,2.229,2,9,3,0,9,2023-09-24
+8c138263-1dc1-4e28-96ee-21158684cd55,Las Vegas Raiders,Pittsburgh Steelers,jimmy garoppolo,324,12,44,28,7.364,4,31,2,32,3,72.5,121.52200000000002,2.762,1,5,0,0,6,2023-09-25
+8c138263-1dc1-4e28-96ee-21158684cd55,Las Vegas Raiders,Pittsburgh Steelers,kenny pickett,235,10,28,16,8.393,1,7,2,72,0,108.5,70.30400000000002,2.511,0,3,1,0,1,2023-09-25
+acf1f2a6-1e48-4971-aa52-1a32e322d63f,Tampa Bay Buccaneers,Philadelphia Eagles,baker mayfield,146,10,25,15,5.84,2,13,1,24,1,73.1,59.88799999999998,2.396,2,2,0,0,6,2023-09-25
+acf1f2a6-1e48-4971-aa52-1a32e322d63f,Tampa Bay Buccaneers,Philadelphia Eagles,jalen hurts,277,13,37,23,7.486,1,6,1,34,2,71.6,101.391,2.74,2,2,2,0,7,2023-09-25
+b56959d3-74b7-4cc6-9169-eba8d60608be,Cincinnati Bengals,Los Angeles Rams,joe burrow,259,12,49,26,5.286,2,17,0,43,1,59.8,111.18800000000002,2.269,4,7,2,1,1,2023-09-26
+b56959d3-74b7-4cc6-9169-eba8d60608be,Cincinnati Bengals,Los Angeles Rams,matthew stafford,269,12,33,18,8.152,6,48,1,46,2,66.4,89.40700000000002,2.709,3,4,1,0,7,2023-09-26
+b9c4e80c-88bc-4029-8ab3-07148e599274,Green Bay Packers,Detroit Lions,jordan love,246,9,36,23,6.833,5,43,1,44,2,69.9,121.56100000000002,3.377,0,3,2,0,8,2023-09-29
+b9c4e80c-88bc-4029-8ab3-07148e599274,Green Bay Packers,Detroit Lions,jared goff,210,11,28,19,7.5,2,20,1,35,1,86.9,74.302,2.654,2,1,0,0,4,2023-09-29
+6b8096f3-86c2-48bd-b98a-a4bec7f481c9,Jacksonville Jaguars,Atlanta Falcons,trevor lawrence,207,11,30,23,6.9,2,12,1,30,0,105.8,60.61599999999999,2.021,2,0,0,0,1,2023-10-01
+6b8096f3-86c2-48bd-b98a-a4bec7f481c9,Jacksonville Jaguars,Atlanta Falcons,desmond ridder,191,11,31,19,6.161,4,31,1,33,2,62.7,70.80900000000001,2.284,1,7,1,0,5,2023-10-01
+16da0c37-5e2e-4b36-a990-eda22e811cd7,Houston Texans,Pittsburgh Steelers,devin singletary,6,1,1,1,6.0,0,0,1,6,0,131.3,2.665,2.665,0,0,0,0,1,2023-10-01
+16da0c37-5e2e-4b36-a990-eda22e811cd7,Houston Texans,Pittsburgh Steelers,c.j. stroud,306,13,30,16,10.2,0,0,2,52,0,111.3,63.03800000000001,2.101,1,3,2,2,2,2023-10-01
+16da0c37-5e2e-4b36-a990-eda22e811cd7,Houston Texans,Pittsburgh Steelers,mitch trubisky,18,1,5,3,3.6,0,0,0,8,0,67.1,10.782,2.156,0,2,0,0,0,2023-10-01
+16da0c37-5e2e-4b36-a990-eda22e811cd7,Houston Texans,Pittsburgh Steelers,kenny pickett,114,3,23,15,4.957,3,21,0,32,1,59.0,64.41799999999999,2.801,0,2,1,0,2,2023-10-01
+170250b1-26b1-44ad-8e93-be76305ac667,Indianapolis Colts,Los Angeles Rams,anthony richardson,200,10,25,11,8.0,2,4,2,38,0,98.8,69.47500000000001,2.779,3,4,1,0,2,2023-10-01
+170250b1-26b1-44ad-8e93-be76305ac667,Indianapolis Colts,Los Angeles Rams,matthew stafford,319,16,40,27,7.975,2,16,1,33,1,89.5,103.03400000000002,2.576,0,7,1,0,3,2023-10-01
+4b94c5f8-47de-4704-97fd-0fc3886c6c43,Carolina Panthers,Minnesota Vikings,bryce young,204,11,32,25,6.375,5,55,0,22,0,93.2,76.76100000000001,2.399,1,3,1,0,4,2023-10-01
+4b94c5f8-47de-4704-97fd-0fc3886c6c43,Carolina Panthers,Minnesota Vikings,kirk cousins,139,9,19,12,7.316,2,9,2,30,2,80.7,50.78000000000001,2.673,1,3,1,0,2,2023-10-01
+621e89cf-9018-42b9-8afe-d234e30d2f6b,New Orleans Saints,Tampa Bay Buccaneers,derek carr,127,8,37,23,3.432,2,10,0,20,0,68.2,101.693,2.748,1,3,1,0,2,2023-10-01
+621e89cf-9018-42b9-8afe-d234e30d2f6b,New Orleans Saints,Tampa Bay Buccaneers,taysom hill,13,1,1,1,13.0,1,3,0,13,0,118.8,6.011,6.011,0,0,0,0,0,2023-10-01
+621e89cf-9018-42b9-8afe-d234e30d2f6b,New Orleans Saints,Tampa Bay Buccaneers,jameis winston,0,0,1,0,0.0,0,0,0,0,1,0.0,3.407,3.407,0,0,0,0,0,2023-10-01
+621e89cf-9018-42b9-8afe-d234e30d2f6b,New Orleans Saints,Tampa Bay Buccaneers,chris godwin,0,0,1,0,0.0,0,0,0,0,0,39.6,3.27,3.27,0,1,0,0,0,2023-10-01
+621e89cf-9018-42b9-8afe-d234e30d2f6b,New Orleans Saints,Tampa Bay Buccaneers,baker mayfield,246,13,32,25,7.688,1,7,3,42,1,116.9,89.111,2.785,0,2,3,0,7,2023-10-01
+667e5a52-a24a-4f03-8a9b-2bf65d9c80ab,Philadelphia Eagles,Washington Commanders,jalen hurts,319,14,37,25,8.622,3,8,2,59,0,112.3,90.946,2.458,1,3,3,0,3,2023-10-01
+667e5a52-a24a-4f03-8a9b-2bf65d9c80ab,Philadelphia Eagles,Washington Commanders,sam howell,290,12,41,29,7.073,5,32,1,35,0,98.6,102.05000000000004,2.489,2,4,2,0,6,2023-10-01
+8899218a-fdf9-4e16-b7b9-fd4cd10b86f1,Buffalo Bills,Miami Dolphins,josh allen,320,14,25,21,12.8,2,10,4,55,0,158.3,62.90899999999999,2.516,0,3,0,0,4,2023-10-01
+8899218a-fdf9-4e16-b7b9-fd4cd10b86f1,Buffalo Bills,Miami Dolphins,tua tagovailoa,282,12,35,25,8.057,4,31,1,23,1,92.8,85.10900000000001,2.432,0,4,1,0,5,2023-10-01
+91b107b8-c59f-4621-a585-ec48d54bbec1,Tennessee Titans,Cincinnati Bengals,ryan tannehill,240,10,25,18,9.6,3,15,1,44,1,98.8,64.16,2.566,1,0,0,0,3,2023-10-01
+91b107b8-c59f-4621-a585-ec48d54bbec1,Tennessee Titans,Cincinnati Bengals,derrick henry,2,1,1,1,2.0,0,0,1,2,0,118.8,2.044,2.044,0,0,0,0,1,2023-10-01
+91b107b8-c59f-4621-a585-ec48d54bbec1,Tennessee Titans,Cincinnati Bengals,joe burrow,165,8,30,20,5.5,3,26,0,17,0,80.6,63.244,2.108,1,3,2,0,1,2023-10-01
+aec1377b-1013-4c2d-9acc-46e13340ed17,Cleveland Browns,Baltimore Ravens,dorian thompson-robinson,121,6,36,19,3.361,4,48,0,16,3,25.3,122.49199999999998,3.403,0,8,1,0,2,2023-10-01
+aec1377b-1013-4c2d-9acc-46e13340ed17,Cleveland Browns,Baltimore Ravens,lamar jackson,186,8,19,15,9.789,3,21,2,43,0,142.5,62.84699999999999,3.308,0,3,1,0,3,2023-10-01
+fe8484a3-0a70-4621-bb24-7aa1ff706654,Chicago Bears,Denver Broncos,justin fields,335,17,35,28,9.571,4,35,4,29,1,132.7,108.78599999999996,3.108,1,4,2,0,2,2023-10-01
+fe8484a3-0a70-4621-bb24-7aa1ff706654,Chicago Bears,Denver Broncos,russell wilson,223,9,28,21,7.964,1,9,3,48,0,133.5,74.87200000000001,2.674,1,1,2,0,5,2023-10-01
+2039b2f6-1e7e-4b04-a748-9c16c1685147,Los Angeles Chargers,Las Vegas Raiders,justin herbert,167,6,24,13,6.958,2,17,1,51,1,72.7,81.893,3.412,1,4,0,0,4,2023-10-01
+2039b2f6-1e7e-4b04-a748-9c16c1685147,Los Angeles Chargers,Las Vegas Raiders,aidan o'connell,238,12,39,24,6.103,7,50,0,25,1,68.1,126.519,3.244,2,2,1,0,9,2023-10-01
+6b84f1cd-1001-458f-81ae-3789bd4c5b8b,Dallas Cowboys,New England Patriots,dak prescott,261,14,34,28,7.676,3,28,1,29,0,108.5,84.35499999999999,2.481,2,2,0,0,8,2023-10-01
+6b84f1cd-1001-458f-81ae-3789bd4c5b8b,Dallas Cowboys,New England Patriots,cooper rush,20,1,2,2,10.0,0,0,0,13,0,108.3,4.423,2.212,0,0,0,0,0,2023-10-01
+6b84f1cd-1001-458f-81ae-3789bd4c5b8b,Dallas Cowboys,New England Patriots,mac jones,150,6,21,12,7.143,1,0,0,42,2,39.9,60.79700000000001,2.895,1,4,0,0,1,2023-10-01
+6b84f1cd-1001-458f-81ae-3789bd4c5b8b,Dallas Cowboys,New England Patriots,bailey zappe,57,2,9,4,6.333,1,7,0,22,0,65.5,27.291,3.032,0,1,1,0,0,2023-10-01
+cad23233-f52d-43ee-9de5-1eba538784d8,San Francisco 49ers,Arizona Cardinals,brock purdy,283,17,21,20,13.476,1,12,1,42,0,134.6,55.75900000000001,2.655,0,0,0,0,5,2023-10-01
+cad23233-f52d-43ee-9de5-1eba538784d8,San Francisco 49ers,Arizona Cardinals,josh dobbs,265,13,41,28,6.463,1,8,2,41,0,102.2,103.631,2.528,3,0,0,0,7,2023-10-01
+aeb50a76-6411-46ce-98f0-189082122dce,New York Jets,Kansas City Chiefs,zach wilson,245,12,39,28,6.282,2,17,2,39,0,105.2,85.864,2.202,2,3,0,0,5,2023-10-02
+aeb50a76-6411-46ce-98f0-189082122dce,New York Jets,Kansas City Chiefs,patrick mahomes,203,9,30,18,6.767,1,6,1,34,2,63.6,67.516,2.251,2,4,1,0,5,2023-10-02
+ef3b9907-3ed0-43f4-9b2b-75d69398f57b,New York Giants,Seattle Seahawks,daniel jones,203,9,34,27,5.971,10,59,0,22,2,67.0,94.99,2.794,0,2,2,0,1,2023-10-03
+ef3b9907-3ed0-43f4-9b2b-75d69398f57b,New York Giants,Seattle Seahawks,parris campbell,0,0,0,0,0.0,1,8,0,0,0,0.0,0.874,0.0,0,0,0,0,0,2023-10-03
+ef3b9907-3ed0-43f4-9b2b-75d69398f57b,New York Giants,Seattle Seahawks,geno smith,110,4,20,13,5.5,2,13,1,23,0,95.8,50.548,2.527,0,3,0,0,2,2023-10-03
+ef3b9907-3ed0-43f4-9b2b-75d69398f57b,New York Giants,Seattle Seahawks,drew lock,63,2,6,2,10.5,0,0,0,51,0,73.6,11.048,1.841,1,1,0,0,0,2023-10-03
+7af57f0d-1db1-4790-a929-07547d3b4c7c,Washington Commanders,Chicago Bears,sam howell,388,21,51,37,7.608,5,29,2,41,1,99.1,131.27100000000002,2.574,1,4,2,0,4,2023-10-06
+7af57f0d-1db1-4790-a929-07547d3b4c7c,Washington Commanders,Chicago Bears,justin fields,282,9,29,15,9.724,3,9,4,58,0,125.3,77.68299999999999,2.679,0,4,4,0,7,2023-10-06
+f2bb9067-f889-4366-9f4d-b882dbcb5180,Buffalo Bills,Jacksonville Jaguars,josh allen,359,13,40,27,8.975,0,0,2,48,1,102.0,89.18300000000002,2.23,4,2,4,0,4,2023-10-08
+f2bb9067-f889-4366-9f4d-b882dbcb5180,Buffalo Bills,Jacksonville Jaguars,trevor lawrence,315,16,37,25,8.514,5,37,1,32,0,102.9,78.841,2.131,2,7,0,0,3,2023-10-08
+3751d242-c51f-46f0-8b80-8acd0ea64554,Indianapolis Colts,Tennessee Titans,anthony richardson,98,5,12,9,8.167,1,17,0,38,0,98.6,34.17,2.848,0,0,1,0,0,2023-10-08
+3751d242-c51f-46f0-8b80-8acd0ea64554,Indianapolis Colts,Tennessee Titans,gardner minshew,155,7,14,11,11.071,0,0,0,27,0,112.8,38.913,2.779,0,1,1,0,2,2023-10-08
+3751d242-c51f-46f0-8b80-8acd0ea64554,Indianapolis Colts,Tennessee Titans,derrick henry,0,0,1,0,0.0,0,0,0,0,0,39.6,3.037,3.037,0,0,0,0,1,2023-10-08
+3751d242-c51f-46f0-8b80-8acd0ea64554,Indianapolis Colts,Tennessee Titans,ryan tannehill,264,14,34,23,7.765,1,5,0,36,1,78.6,89.87,2.643,1,5,0,1,4,2023-10-08
+4674a3cb-a6db-44de-b5ff-43b3514aad57,Atlanta Falcons,Houston Texans,desmond ridder,329,17,37,28,8.892,0,0,1,32,0,111.2,79.138,2.139,1,3,0,0,3,2023-10-08
+4674a3cb-a6db-44de-b5ff-43b3514aad57,Atlanta Falcons,Houston Texans,drake london,22,1,1,1,22.0,0,0,0,22,0,118.8,2.094,2.094,0,0,0,0,0,2023-10-08
+4674a3cb-a6db-44de-b5ff-43b3514aad57,Atlanta Falcons,Houston Texans,c.j. stroud,249,13,35,20,7.114,0,0,1,29,0,88.9,88.31200000000001,2.523,2,5,3,0,2,2023-10-08
+798b89c1-25a4-4374-b794-58f30bb8fa64,Detroit Lions,Carolina Panthers,jared goff,236,11,28,20,8.429,2,18,3,31,0,132.4,68.10599999999998,2.432,4,0,1,0,4,2023-10-08
+798b89c1-25a4-4374-b794-58f30bb8fa64,Detroit Lions,Carolina Panthers,bryce young,247,15,41,25,6.024,1,4,3,30,2,82.1,100.66299999999998,2.455,0,1,6,0,11,2023-10-08
+995c3800-4995-4994-87e6-383e80a02b28,Pittsburgh Steelers,Baltimore Ravens,kenny pickett,224,11,32,18,7.0,3,22,1,41,0,88.5,92.2,2.881,2,5,1,0,2,2023-10-08
+995c3800-4995-4994-87e6-383e80a02b28,Pittsburgh Steelers,Baltimore Ravens,lamar jackson,236,11,38,22,6.211,4,26,0,30,1,65.2,106.068,2.791,3,6,0,0,8,2023-10-08
+dbd2e6d3-4468-4e26-a4b4-548beae97ffd,New England Patriots,New Orleans Saints,bailey zappe,22,0,9,3,2.444,0,0,0,9,0,42.4,23.456000000000003,2.606,0,1,0,0,0,2023-10-08
+dbd2e6d3-4468-4e26-a4b4-548beae97ffd,New England Patriots,New Orleans Saints,mac jones,110,4,22,12,5.0,2,21,0,28,2,30.5,56.49100000000001,2.568,0,6,0,0,0,2023-10-08
+dbd2e6d3-4468-4e26-a4b4-548beae97ffd,New England Patriots,New Orleans Saints,derek carr,183,11,26,18,7.038,2,15,2,33,0,114.7,68.075,2.618,1,1,1,0,3,2023-10-08
+dc105cfb-5e42-4b1a-b57f-7cd822fe4c13,Miami Dolphins,New York Giants,tua tagovailoa,308,14,30,22,10.267,1,6,2,69,2,100.4,60.039,2.001,0,4,1,1,6,2023-10-08
+dc105cfb-5e42-4b1a-b57f-7cd822fe4c13,Miami Dolphins,New York Giants,daniel jones,119,6,20,14,5.95,6,19,0,21,0,85.2,54.306,2.715,0,3,1,0,0,2023-10-08
+dc105cfb-5e42-4b1a-b57f-7cd822fe4c13,Miami Dolphins,New York Giants,tyrod taylor,86,4,12,9,7.167,1,3,0,20,0,94.4,27.589,2.299,1,1,1,0,0,2023-10-08
+0e853aec-266e-48c8-bbd5-290385f341e1,Los Angeles Rams,Philadelphia Eagles,matthew stafford,222,13,37,21,6.0,4,27,2,39,0,92.4,89.77400000000002,2.426,3,1,2,0,2,2023-10-08
+0e853aec-266e-48c8-bbd5-290385f341e1,Los Angeles Rams,Philadelphia Eagles,jalen hurts,303,13,38,25,7.974,1,8,1,49,1,87.9,101.46599999999997,2.67,0,3,3,0,6,2023-10-08
+f0aa2ade-8128-400e-b26e-315833759b93,Arizona Cardinals,Cincinnati Bengals,josh dobbs,166,10,32,15,5.188,3,14,2,25,2,57.6,82.35500000000002,2.574,1,8,2,0,2,2023-10-08
+f0aa2ade-8128-400e-b26e-315833759b93,Arizona Cardinals,Cincinnati Bengals,joe burrow,317,19,46,36,6.891,3,30,3,63,1,108.1,95.865,2.084,0,1,1,0,7,2023-10-08
+ac792574-1d49-48e7-af5f-9cf618402d4d,Denver Broncos,New York Jets,russell wilson,196,10,31,20,6.323,4,27,2,29,0,103.7,103.708,3.345,1,3,2,1,4,2023-10-08
+ac792574-1d49-48e7-af5f-9cf618402d4d,Denver Broncos,New York Jets,zach wilson,199,10,26,19,7.654,4,26,0,37,1,78.8,76.204,2.931,2,2,0,0,6,2023-10-08
+f5a05fb8-5fce-47f2-bd0c-8ab61d7c86f4,Minnesota Vikings,Kansas City Chiefs,kirk cousins,284,15,47,29,6.043,3,25,2,27,0,92.9,122.30500000000002,2.602,3,7,0,1,8,2023-10-08
+f5a05fb8-5fce-47f2-bd0c-8ab61d7c86f4,Minnesota Vikings,Kansas City Chiefs,patrick mahomes,281,15,41,31,6.854,2,15,2,33,0,109.9,95.905,2.339,1,4,1,1,5,2023-10-08
+f3771533-4836-4812-a9dc-cfd723b3ce48,San Francisco 49ers,Dallas Cowboys,sam darnold,1,0,1,1,1.0,0,0,0,1,0,79.2,0.891,0.891,0,0,0,0,0,2023-10-09
+f3771533-4836-4812-a9dc-cfd723b3ce48,San Francisco 49ers,Dallas Cowboys,brock purdy,252,12,24,17,10.5,1,2,4,42,0,144.4,59.69699999999999,2.487,0,5,0,0,6,2023-10-09
+f3771533-4836-4812-a9dc-cfd723b3ce48,San Francisco 49ers,Dallas Cowboys,dak prescott,153,5,24,14,6.375,3,13,1,29,3,51.6,74.815,3.117,2,3,0,0,0,2023-10-09
+f3771533-4836-4812-a9dc-cfd723b3ce48,San Francisco 49ers,Dallas Cowboys,cooper rush,8,0,2,2,4.0,1,8,0,7,0,83.3,6.648000000000001,3.324,0,0,0,0,0,2023-10-09
+0a8d8f54-a2c6-42ea-a7a8-c04077bf15ba,Las Vegas Raiders,Green Bay Packers,josh jacobs,0,0,0,0,0.0,1,4,0,0,0,79.2,1.966,0.0,0,0,0,0,0,2023-10-10
+0a8d8f54-a2c6-42ea-a7a8-c04077bf15ba,Las Vegas Raiders,Green Bay Packers,jimmy garoppolo,208,13,31,22,6.71,3,21,1,21,1,86.5,72.13199999999999,2.327,0,3,1,1,5,2023-10-10
+0a8d8f54-a2c6-42ea-a7a8-c04077bf15ba,Las Vegas Raiders,Green Bay Packers,jordan love,182,7,30,16,6.067,2,7,0,77,3,32.2,73.716,2.457,5,2,1,0,2,2023-10-10
+eb4c2dca-b464-42a9-ba46-b5546e1cb9c3,Kansas City Chiefs,Denver Broncos,kadarius toney,0,0,1,0,0.0,0,0,0,0,0,39.6,4.701,4.701,0,0,0,0,0,2023-10-13
+eb4c2dca-b464-42a9-ba46-b5546e1cb9c3,Kansas City Chiefs,Denver Broncos,patrick mahomes,306,14,40,30,7.65,2,13,1,40,1,94.4,115.28599999999996,2.882,2,4,2,0,8,2023-10-13
+eb4c2dca-b464-42a9-ba46-b5546e1cb9c3,Kansas City Chiefs,Denver Broncos,russell wilson,95,4,22,13,4.318,4,13,1,21,2,46.6,71.34,3.243,1,7,0,0,1,2023-10-13
+b6ea4083-5d31-4061-a984-31cd69f8572b,Tennessee Titans,Baltimore Ravens,ryan tannehill,76,3,16,8,4.75,2,16,0,20,1,37.5,43.211000000000006,2.701,1,3,1,0,4,2023-10-15
+b6ea4083-5d31-4061-a984-31cd69f8572b,Tennessee Titans,Baltimore Ravens,malik willis,74,1,5,4,14.8,4,30,0,48,0,118.8,24.894,4.979,0,0,0,0,0,2023-10-15
+b6ea4083-5d31-4061-a984-31cd69f8572b,Tennessee Titans,Baltimore Ravens,lamar jackson,223,9,30,21,7.433,1,2,1,38,1,88.6,80.81299999999999,2.694,1,1,1,0,3,2023-10-15
+208d722a-0a3a-4191-b9cc-61aaa7a545af,Atlanta Falcons,Washington Commanders,desmond ridder,307,18,47,28,6.532,3,11,2,32,3,66.5,109.822,2.337,1,10,2,1,5,2023-10-15
+208d722a-0a3a-4191-b9cc-61aaa7a545af,Atlanta Falcons,Washington Commanders,sam howell,151,9,23,14,6.565,5,30,3,24,0,119.7,69.7,3.03,0,3,1,1,3,2023-10-15
+91839912-1452-49af-9e29-c4a9c96e8a18,Cleveland Browns,San Francisco 49ers,pj walker,192,6,34,18,5.647,2,18,0,58,2,45.2,96.98000000000002,2.852,0,3,1,0,2,2023-10-15
+91839912-1452-49af-9e29-c4a9c96e8a18,Cleveland Browns,San Francisco 49ers,brock purdy,125,5,27,12,4.63,3,18,1,33,1,55.3,74.385,2.755,0,2,1,1,2,2023-10-15
+941a5959-111d-431b-a1d4-38231a26dc21,Houston Texans,New Orleans Saints,c.j. stroud,199,9,27,13,7.37,2,22,2,34,1,82.2,85.24499999999996,3.157,0,3,2,0,6,2023-10-15
+941a5959-111d-431b-a1d4-38231a26dc21,Houston Texans,New Orleans Saints,taysom hill,4,0,1,1,4.0,0,0,0,4,0,83.3,2.947,2.947,0,0,0,0,0,2023-10-15
+941a5959-111d-431b-a1d4-38231a26dc21,Houston Texans,New Orleans Saints,derek carr,353,13,50,32,7.06,2,16,1,51,1,83.2,125.373,2.507,1,3,5,0,3,2023-10-15
+98e64983-4460-4ead-8490-73124bb9f25f,Miami Dolphins,Carolina Panthers,tua tagovailoa,262,14,31,21,8.452,0,0,3,47,0,126.0,70.42299999999999,2.272,1,5,2,0,5,2023-10-15
+98e64983-4460-4ead-8490-73124bb9f25f,Miami Dolphins,Carolina Panthers,mike white,0,0,1,0,0.0,0,0,0,0,1,0.0,1.655,1.655,0,1,0,0,0,2023-10-15
+98e64983-4460-4ead-8490-73124bb9f25f,Miami Dolphins,Carolina Panthers,johnny hekker,7,0,1,1,7.0,0,0,0,7,0,95.8,2.237,2.237,0,0,0,0,0,2023-10-15
+98e64983-4460-4ead-8490-73124bb9f25f,Miami Dolphins,Carolina Panthers,bryce young,217,13,38,23,5.711,4,36,1,27,0,85.1,114.791,3.021,1,1,3,0,2,2023-10-15
+d6c8527c-5735-40a8-a91b-bcc96c4d9aca,Cincinnati Bengals,Seattle Seahawks,joe burrow,185,10,35,24,5.286,3,17,2,31,1,88.4,73.06200000000003,2.087,2,6,0,0,4,2023-10-15
+d6c8527c-5735-40a8-a91b-bcc96c4d9aca,Cincinnati Bengals,Seattle Seahawks,geno smith,326,13,41,27,7.951,4,29,0,36,2,69.8,104.97899999999996,2.56,0,5,4,0,9,2023-10-15
+e6c053eb-19b2-4a91-b810-a823df216bda,Jacksonville Jaguars,Indianapolis Colts,trevor lawrence,181,6,30,20,6.033,3,33,2,29,1,91.1,69.34599999999999,2.312,0,2,2,0,3,2023-10-15
+e6c053eb-19b2-4a91-b810-a823df216bda,Jacksonville Jaguars,Indianapolis Colts,gardner minshew,329,14,55,33,5.982,3,19,1,45,3,60.3,126.84799999999996,2.306,2,11,3,0,8,2023-10-15
+f1946916-a87b-4d44-a60a-407e25397040,Chicago Bears,Minnesota Vikings,justin fields,58,3,10,6,5.8,4,18,0,39,1,36.7,40.767,4.077,1,1,0,0,1,2023-10-15
+f1946916-a87b-4d44-a60a-407e25397040,Chicago Bears,Minnesota Vikings,tyson bagent,83,5,14,10,5.929,1,10,0,24,1,56.5,33.166999999999994,2.369,0,3,0,0,0,2023-10-15
+f1946916-a87b-4d44-a60a-407e25397040,Chicago Bears,Minnesota Vikings,kirk cousins,181,8,31,21,5.839,2,7,1,21,0,93.6,84.97999999999999,2.741,4,3,1,0,2,2023-10-15
+31c79ef7-b632-4ee0-9da4-6d4bd400867b,Las Vegas Raiders,New England Patriots,jimmy garoppolo,162,8,22,14,7.364,0,0,1,32,1,82.0,58.337,2.652,1,3,1,0,4,2023-10-15
+31c79ef7-b632-4ee0-9da4-6d4bd400867b,Las Vegas Raiders,New England Patriots,brian hoyer,102,4,10,6,10.2,0,0,0,48,0,94.6,20.546000000000003,2.055,0,1,0,0,3,2023-10-15
+31c79ef7-b632-4ee0-9da4-6d4bd400867b,Las Vegas Raiders,New England Patriots,mac jones,200,7,33,24,6.061,3,19,0,36,1,75.3,66.624,2.019,2,1,2,0,5,2023-10-15
+31c79ef7-b632-4ee0-9da4-6d4bd400867b,Las Vegas Raiders,New England Patriots,malik cunningham,0,0,0,0,0.0,1,5,0,0,0,0.0,1.438,0.0,0,0,0,0,0,2023-10-15
+0f26b77e-4e60-4231-806f-74fd751e76c5,Los Angeles Rams,Arizona Cardinals,matthew stafford,226,7,24,15,9.417,3,23,1,49,0,107.3,62.099,2.587,1,1,1,2,6,2023-10-15
+0f26b77e-4e60-4231-806f-74fd751e76c5,Los Angeles Rams,Arizona Cardinals,josh dobbs,235,12,41,21,5.732,2,20,0,27,1,58.5,115.19300000000004,2.81,0,7,3,0,4,2023-10-15
+46dfa19a-bd6b-41c6-8f24-840c7588fe59,Tampa Bay Buccaneers,Detroit Lions,baker mayfield,206,12,37,19,5.568,1,1,0,26,1,56.8,79.97599999999998,2.162,1,7,1,0,3,2023-10-15
+46dfa19a-bd6b-41c6-8f24-840c7588fe59,Tampa Bay Buccaneers,Detroit Lions,jared goff,353,16,44,30,8.023,3,13,2,45,0,107.5,93.37799999999996,2.122,1,2,3,0,2,2023-10-15
+6866131a-c15d-4b3c-9f15-aeff08d50e23,New York Jets,Philadelphia Eagles,zach wilson,186,9,33,19,5.636,5,31,0,33,0,73.5,91.91000000000004,2.785,3,5,0,0,3,2023-10-15
+6866131a-c15d-4b3c-9f15-aeff08d50e23,New York Jets,Philadelphia Eagles,jalen hurts,280,16,45,28,6.222,2,12,1,49,3,59.5,126.925,2.821,4,10,2,0,4,2023-10-15
+e8b3ce79-bafd-4354-9181-2d7b9df89d23,Buffalo Bills,New York Giants,josh allen,169,12,30,19,5.633,0,0,2,28,1,86.7,74.53399999999999,2.484,2,2,1,0,3,2023-10-16
+e8b3ce79-bafd-4354-9181-2d7b9df89d23,Buffalo Bills,New York Giants,tyrod taylor,200,11,36,24,5.556,3,15,0,31,0,80.8,78.717,2.187,0,2,3,2,5,2023-10-16
+a8255a2f-1dd2-4555-bc9b-61b35c6115da,Los Angeles Chargers,Dallas Cowboys,justin herbert,227,12,37,22,6.135,1,8,2,28,1,84.0,84.765,2.291,2,6,0,0,9,2023-10-17
+a8255a2f-1dd2-4555-bc9b-61b35c6115da,Los Angeles Chargers,Dallas Cowboys,dak prescott,272,12,30,21,9.067,5,26,1,60,0,109.3,92.459,3.082,4,2,0,0,4,2023-10-17
+05d7709e-c558-4549-b5cb-b7aae2987e7e,New Orleans Saints,Jacksonville Jaguars,derek carr,301,15,55,33,5.473,1,6,1,21,1,73.4,136.562,2.483,3,6,2,0,10,2023-10-20
+05d7709e-c558-4549-b5cb-b7aae2987e7e,New Orleans Saints,Jacksonville Jaguars,trevor lawrence,204,8,29,20,7.034,0,0,1,44,0,100.4,59.70499999999999,2.059,0,4,0,0,1,2023-10-20
+05d7709e-c558-4549-b5cb-b7aae2987e7e,New Orleans Saints,Jacksonville Jaguars,logan cooke,13,1,1,1,13.0,0,0,0,13,0,118.8,2.329,2.329,0,0,0,0,0,2023-10-20
+0c52ea82-0f2f-4024-bde7-b5571e13fb01,Baltimore Ravens,Detroit Lions,lamar jackson,357,15,27,21,13.222,0,0,3,80,0,155.8,70.69200000000001,2.618,1,0,0,0,6,2023-10-22
+0c52ea82-0f2f-4024-bde7-b5571e13fb01,Baltimore Ravens,Detroit Lions,tyler huntley,0,0,1,0,0.0,0,0,0,0,0,39.6,2.945,2.945,0,0,0,0,0,2023-10-22
+0c52ea82-0f2f-4024-bde7-b5571e13fb01,Baltimore Ravens,Detroit Lions,jared goff,284,13,53,33,5.358,5,31,0,22,1,68.4,151.913,2.866,3,5,4,0,3,2023-10-22
+1b5d9445-c337-4a49-b600-ca98f4538638,Tampa Bay Buccaneers,Atlanta Falcons,baker mayfield,275,13,42,27,6.548,3,19,1,40,1,81.0,118.76500000000004,2.828,2,7,1,0,4,2023-10-22
+1b5d9445-c337-4a49-b600-ca98f4538638,Tampa Bay Buccaneers,Atlanta Falcons,desmond ridder,250,9,25,19,10.0,1,5,0,46,0,107.1,61.466,2.459,0,3,2,0,7,2023-10-22
+68dd7644-8549-473a-aa23-f5587b1d90db,New York Giants,Washington Commanders,tyrod taylor,279,10,29,18,9.621,4,29,2,42,0,116.9,74.837,2.581,0,5,1,0,1,2023-10-22
+68dd7644-8549-473a-aa23-f5587b1d90db,New York Giants,Washington Commanders,sam howell,249,9,42,22,5.929,6,52,0,31,1,60.5,97.18599999999998,2.314,2,6,5,0,9,2023-10-22
+86a7972f-f3bf-452a-a808-66d484851f4a,Chicago Bears,Las Vegas Raiders,nathan peterman,0,0,0,0,0.0,1,5,0,0,0,0.0,5.762,0.0,0,0,0,0,0,2023-10-22
+86a7972f-f3bf-452a-a808-66d484851f4a,Chicago Bears,Las Vegas Raiders,tyson bagent,162,10,29,21,5.586,1,7,1,17,0,97.2,76.389,2.634,3,2,0,0,7,2023-10-22
+86a7972f-f3bf-452a-a808-66d484851f4a,Chicago Bears,Las Vegas Raiders,brian hoyer,129,10,32,17,4.031,1,8,0,15,2,37.1,68.809,2.15,1,7,0,0,5,2023-10-22
+86a7972f-f3bf-452a-a808-66d484851f4a,Chicago Bears,Las Vegas Raiders,aidan o'connell,75,6,13,10,5.769,0,0,1,15,1,83.8,26.656,2.05,0,1,0,0,3,2023-10-22
+c5f826f9-7f92-401a-b3b5-c4f7743c6d24,New England Patriots,Buffalo Bills,mac jones,272,13,30,25,9.067,1,4,2,34,0,126.7,58.27799999999999,1.943,0,1,0,0,5,2023-10-22
+c5f826f9-7f92-401a-b3b5-c4f7743c6d24,New England Patriots,Buffalo Bills,josh allen,265,14,41,27,6.463,1,7,2,28,1,90.0,100.88599999999995,2.461,1,2,2,0,7,2023-10-22
+c64a803d-9681-425e-bd4b-8c9423f8e6a9,Indianapolis Colts,Cleveland Browns,gardner minshew,305,11,23,15,13.261,4,17,2,75,1,119.4,58.526,2.545,1,3,1,0,3,2023-10-22
+c64a803d-9681-425e-bd4b-8c9423f8e6a9,Indianapolis Colts,Cleveland Browns,deshaun watson,5,0,5,1,1.0,0,0,0,5,1,0.0,10.768,2.154,0,2,0,0,0,2023-10-22
+c64a803d-9681-425e-bd4b-8c9423f8e6a9,Indianapolis Colts,Cleveland Browns,pj walker,178,9,32,15,5.563,2,17,0,30,1,51.3,84.37199999999999,2.637,4,6,1,1,3,2023-10-22
+50565c54-2e14-4884-96fb-f259aec55a2e,Los Angeles Rams,Pittsburgh Steelers,matthew stafford,231,8,29,14,7.966,2,12,1,36,1,72.6,78.80099999999999,2.717,4,2,2,0,1,2023-10-22
+50565c54-2e14-4884-96fb-f259aec55a2e,Los Angeles Rams,Pittsburgh Steelers,kenny pickett,230,9,25,17,9.2,2,16,0,39,0,97.1,69.631,2.785,2,2,2,0,2,2023-10-22
+f9056e07-780d-455a-bc1c-ff03d4f20fdb,Seattle Seahawks,Arizona Cardinals,geno smith,219,11,24,18,9.125,2,16,2,31,1,113.0,66.24699999999999,2.76,3,3,0,0,3,2023-10-22
+f9056e07-780d-455a-bc1c-ff03d4f20fdb,Seattle Seahawks,Arizona Cardinals,clayton tune,4,0,1,1,4.0,0,0,0,4,0,83.3,1.311,1.311,0,0,0,0,0,2023-10-22
+f9056e07-780d-455a-bc1c-ff03d4f20fdb,Seattle Seahawks,Arizona Cardinals,josh dobbs,146,7,33,19,4.424,4,28,0,21,0,68.5,95.537,2.895,2,6,0,0,0,2023-10-22
+1ba76f67-8356-45b2-884e-f45185a26dba,Kansas City Chiefs,Los Angeles Chargers,patrick mahomes,424,21,42,32,10.095,1,9,4,53,1,129.5,125.85100000000004,2.996,3,3,1,0,5,2023-10-22
+1ba76f67-8356-45b2-884e-f45185a26dba,Kansas City Chiefs,Los Angeles Chargers,justin herbert,259,11,30,17,8.633,5,40,1,60,2,68.6,96.713,3.224,1,5,0,0,4,2023-10-22
+b63e3b78-d93c-4fd8-b8f7-f21cf376cbca,Denver Broncos,Green Bay Packers,russell wilson,194,9,29,20,6.69,1,0,1,33,0,98.9,71.65400000000001,2.471,2,0,5,0,5,2023-10-22
+b63e3b78-d93c-4fd8-b8f7-f21cf376cbca,Denver Broncos,Green Bay Packers,jordan love,180,12,31,21,5.806,0,0,2,29,1,90.8,71.37100000000001,2.302,1,5,0,0,5,2023-10-22
+b63e3b78-d93c-4fd8-b8f7-f21cf376cbca,Denver Broncos,Green Bay Packers,dontayvion wicks,14,1,1,1,14.0,0,0,0,14,0,118.8,0.902,0.902,0,0,0,0,0,2023-10-22
+7b2da75e-2f9e-4a6a-ba4c-ba6d98ac32d2,Philadelphia Eagles,Miami Dolphins,jalen hurts,279,11,31,23,9.0,3,23,2,42,1,109.5,90.747,2.927,1,4,1,0,2,2023-10-23
+7b2da75e-2f9e-4a6a-ba4c-ba6d98ac32d2,Philadelphia Eagles,Miami Dolphins,cedrick wilson jr.,0,0,0,0,0.0,1,7,0,0,0,0.0,4.884,0.0,0,0,0,0,0,2023-10-23
+7b2da75e-2f9e-4a6a-ba4c-ba6d98ac32d2,Philadelphia Eagles,Miami Dolphins,tua tagovailoa,216,9,32,23,6.75,3,10,1,29,1,87.5,78.013,2.438,2,2,0,0,1,2023-10-23
+88081ea3-9c5f-4953-8f8a-dd2b8e96709a,Minnesota Vikings,San Francisco 49ers,kirk cousins,378,18,45,35,8.4,0,0,2,60,1,107.2,100.543,2.234,1,4,1,1,5,2023-10-24
+88081ea3-9c5f-4953-8f8a-dd2b8e96709a,Minnesota Vikings,San Francisco 49ers,jordan addison,0,0,0,0,0.0,0,0,0,0,0,118.8,0.0,0.0,0,0,0,0,0,2023-10-24
+88081ea3-9c5f-4953-8f8a-dd2b8e96709a,Minnesota Vikings,San Francisco 49ers,brock purdy,272,12,30,21,9.067,1,12,1,35,2,81.5,62.38699999999999,2.08,0,2,0,1,1,2023-10-24
+fd9f7b9c-cea0-442d-b538-35d039772dfb,Buffalo Bills,Tampa Bay Buccaneers,josh allen,324,16,40,31,8.1,2,12,2,30,1,106.7,85.41300000000001,2.135,0,4,1,0,5,2023-10-27
+fd9f7b9c-cea0-442d-b538-35d039772dfb,Buffalo Bills,Tampa Bay Buccaneers,baker mayfield,237,10,42,25,5.643,3,13,2,31,0,91.1,112.29200000000002,2.674,2,9,2,0,1,2023-10-27
+08bc19a0-57a0-4384-ad54-e1841617eb52,Washington Commanders,Philadelphia Eagles,sam howell,397,20,52,39,7.635,1,9,4,26,1,114.0,116.87699999999998,2.248,4,4,1,0,3,2023-10-29
+08bc19a0-57a0-4384-ad54-e1841617eb52,Washington Commanders,Philadelphia Eagles,jalen hurts,319,17,38,29,8.395,2,4,4,38,0,135.7,100.688,2.65,0,3,3,0,2,2023-10-29
+12db1871-7157-431e-81ee-0ab0394d29d0,Indianapolis Colts,New Orleans Saints,gardner minshew,213,10,41,23,5.195,2,6,2,33,1,76.6,93.618,2.283,2,7,3,0,5,2023-10-29
+12db1871-7157-431e-81ee-0ab0394d29d0,Indianapolis Colts,New Orleans Saints,derek carr,310,11,27,19,11.481,1,4,2,58,0,133.3,54.98799999999999,2.037,4,1,0,0,2,2023-10-29
+12db1871-7157-431e-81ee-0ab0394d29d0,Indianapolis Colts,New Orleans Saints,taysom hill,44,1,2,1,22.0,0,0,0,44,0,95.8,3.858,1.929,0,0,0,0,0,2023-10-29
+585f12fd-212f-44ce-9dbf-ff54a770a6a7,Pittsburgh Steelers,Jacksonville Jaguars,mitch trubisky,138,8,27,15,5.111,2,15,1,22,2,51.2,68.48899999999999,2.537,2,5,0,1,0,2023-10-29
+585f12fd-212f-44ce-9dbf-ff54a770a6a7,Pittsburgh Steelers,Jacksonville Jaguars,kenny pickett,73,4,16,10,4.563,1,5,0,16,0,73.2,39.947,2.497,1,2,1,0,3,2023-10-29
+585f12fd-212f-44ce-9dbf-ff54a770a6a7,Pittsburgh Steelers,Jacksonville Jaguars,trevor lawrence,292,11,32,24,9.125,3,21,1,56,1,100.0,72.82999999999998,2.276,2,2,0,0,2,2023-10-29
+6569f839-673a-4aca-8447-fc7819d4ba68,New York Giants,New York Jets,tommy devito,-1,0,7,2,-0.143,2,9,0,0,0,39.6,19.677,2.811,0,3,1,0,1,2023-10-29
+6569f839-673a-4aca-8447-fc7819d4ba68,New York Giants,New York Jets,tyrod taylor,8,0,7,4,1.143,2,7,0,4,0,62.2,21.542,3.077,1,1,1,0,1,2023-10-29
+6569f839-673a-4aca-8447-fc7819d4ba68,New York Giants,New York Jets,zach wilson,240,8,36,17,6.667,4,47,1,50,0,78.5,94.85599999999998,2.635,2,7,1,1,1,2023-10-29
+90edc301-f8be-449d-b305-cb6564de763d,Carolina Panthers,Houston Texans,bryce young,235,11,31,22,7.581,6,55,1,40,0,103.6,91.26299999999996,2.944,5,2,0,0,4,2023-10-29
+90edc301-f8be-449d-b305-cb6564de763d,Carolina Panthers,Houston Texans,c.j. stroud,140,10,24,16,5.833,2,21,0,31,0,81.9,61.20799999999999,2.55,0,4,0,0,1,2023-10-29
+94d238aa-f794-4c2e-beb2-66155c9b5cb0,Miami Dolphins,New England Patriots,tua tagovailoa,324,17,45,30,7.2,2,12,3,42,1,100.6,84.47200000000002,1.877,3,5,1,0,9,2023-10-29
+94d238aa-f794-4c2e-beb2-66155c9b5cb0,Miami Dolphins,New England Patriots,mac jones,161,7,29,19,5.552,3,20,2,24,1,88.4,67.97000000000001,2.344,1,3,1,0,5,2023-10-29
+f059907e-faa8-455b-8eee-50f5fc8c3e56,Tennessee Titans,Atlanta Falcons,will levis,238,7,29,19,8.207,2,12,4,61,0,130.5,77.417,2.67,1,3,2,0,1,2023-10-29
+f059907e-faa8-455b-8eee-50f5fc8c3e56,Tennessee Titans,Atlanta Falcons,taylor heinicke,175,8,21,12,8.333,1,8,1,52,0,100.3,53.61300000000001,2.553,1,2,1,0,1,2023-10-29
+f059907e-faa8-455b-8eee-50f5fc8c3e56,Tennessee Titans,Atlanta Falcons,desmond ridder,71,4,12,8,5.917,5,36,0,13,0,82.3,38.265,3.189,0,2,0,0,0,2023-10-29
+f059907e-faa8-455b-8eee-50f5fc8c3e56,Tennessee Titans,Atlanta Falcons,jonnu smith,0,0,1,0,0.0,0,0,0,0,0,39.6,1.534,1.534,0,0,0,0,1,2023-10-29
+f1099e5b-7021-4afd-9738-d5c44149414a,Green Bay Packers,Minnesota Vikings,jordan love,229,14,41,24,5.585,4,33,1,34,1,72.1,116.56600000000002,2.843,3,7,1,0,8,2023-10-29
+f1099e5b-7021-4afd-9738-d5c44149414a,Green Bay Packers,Minnesota Vikings,kirk cousins,274,13,31,23,8.839,2,13,2,32,0,122.2,90.616,2.923,2,5,0,0,7,2023-10-29
+f1099e5b-7021-4afd-9738-d5c44149414a,Green Bay Packers,Minnesota Vikings,jaren hall,23,1,4,3,5.75,1,0,0,16,0,88.5,13.027,3.257,0,0,0,0,0,2023-10-29
+f7066066-e0ce-4de3-b34d-09d9c542652d,Dallas Cowboys,Los Angeles Rams,dak prescott,304,16,31,25,9.806,3,22,4,26,1,133.7,86.217,2.781,0,5,0,0,5,2023-10-29
+f7066066-e0ce-4de3-b34d-09d9c542652d,Dallas Cowboys,Los Angeles Rams,cooper rush,3,0,3,2,1.0,0,0,0,5,0,70.1,4.683,1.561,0,0,0,0,0,2023-10-29
+f7066066-e0ce-4de3-b34d-09d9c542652d,Dallas Cowboys,Los Angeles Rams,brett rypien,42,2,10,5,4.2,1,7,0,13,0,61.2,24.846,2.485,1,1,0,0,0,2023-10-29
+f7066066-e0ce-4de3-b34d-09d9c542652d,Dallas Cowboys,Los Angeles Rams,matthew stafford,162,6,22,13,7.364,1,9,1,32,1,78.2,55.93200000000001,2.542,0,4,0,0,4,2023-10-29
+cbf85125-cfe6-4a87-a0b3-997bad59c048,Seattle Seahawks,Cleveland Browns,geno smith,254,12,37,23,6.865,1,6,2,43,2,78.0,86.64500000000002,2.342,0,4,1,0,8,2023-10-29
+cbf85125-cfe6-4a87-a0b3-997bad59c048,Seattle Seahawks,Cleveland Browns,pj walker,248,10,31,15,8.0,3,27,1,41,2,59.6,86.3,2.784,1,4,1,0,6,2023-10-29
+cbf85125-cfe6-4a87-a0b3-997bad59c048,Seattle Seahawks,Cleveland Browns,dorian thompson-robinson,9,0,1,1,9.0,0,0,0,9,0,104.2,1.989,1.989,0,0,0,0,0,2023-10-29
+2148ee07-5ef0-4225-ab7b-7e90828916cb,Denver Broncos,Kansas City Chiefs,russell wilson,114,7,19,12,6.0,6,27,3,39,0,119.3,76.09299999999999,4.005,1,1,1,0,5,2023-10-29
+2148ee07-5ef0-4225-ab7b-7e90828916cb,Denver Broncos,Kansas City Chiefs,patrick mahomes,240,12,38,24,6.316,3,28,0,39,2,59.1,129.24999999999997,3.401,5,3,1,0,3,2023-10-29
+966ab6e4-153a-4c1f-8cac-98163cd98caf,San Francisco 49ers,Cincinnati Bengals,brock purdy,365,15,31,22,11.774,2,18,1,41,2,94.2,111.374,3.593,2,1,1,0,5,2023-10-29
+966ab6e4-153a-4c1f-8cac-98163cd98caf,San Francisco 49ers,Cincinnati Bengals,joe burrow,283,17,32,28,8.844,3,17,3,33,0,134.8,88.779,2.774,2,2,0,0,7,2023-10-29
+9c6a9bf4-91f0-4bff-98c8-aa9efe6e9c0e,Arizona Cardinals,Baltimore Ravens,josh dobbs,208,12,37,25,5.622,2,27,2,29,2,77.3,94.813,2.563,0,3,1,0,7,2023-10-29
+9c6a9bf4-91f0-4bff-98c8-aa9efe6e9c0e,Arizona Cardinals,Baltimore Ravens,lamar jackson,157,8,27,18,5.815,4,19,1,29,0,94.2,89.04000000000002,3.298,0,4,1,0,2,2023-10-29
+d457fa6f-aa5e-4923-a683-b723a0cee085,Los Angeles Chargers,Chicago Bears,justin herbert,298,18,40,31,7.45,0,0,3,39,0,122.7,92.559,2.314,1,3,2,0,6,2023-10-30
+d457fa6f-aa5e-4923-a683-b723a0cee085,Los Angeles Chargers,Chicago Bears,tyson bagent,232,10,37,25,6.27,1,10,0,41,2,62.0,95.092,2.57,2,4,0,0,4,2023-10-30
+121b662e-307d-47d2-a2db-9f383ffb0e3a,Detroit Lions,Las Vegas Raiders,amon-ra st. brown,0,0,0,0,0.0,1,8,0,0,0,0.0,2.031,0.0,0,0,0,0,0,2023-10-31
+121b662e-307d-47d2-a2db-9f383ffb0e3a,Detroit Lions,Las Vegas Raiders,jared goff,272,17,37,26,7.351,0,0,1,44,1,89.0,78.254,2.115,3,2,3,0,5,2023-10-31
+121b662e-307d-47d2-a2db-9f383ffb0e3a,Detroit Lions,Las Vegas Raiders,jimmy garoppolo,126,6,21,10,6.0,6,49,0,19,1,46.9,66.66,3.174,3,2,0,0,0,2023-10-31
+ccd5ad1a-f15c-4bad-9a4e-18a3d5d23fe3,Pittsburgh Steelers,Tennessee Titans,kenny pickett,160,9,30,19,5.333,0,0,1,32,0,88.2,64.85400000000001,2.162,2,3,1,0,4,2023-11-03
+ccd5ad1a-f15c-4bad-9a4e-18a3d5d23fe3,Pittsburgh Steelers,Tennessee Titans,will levis,262,12,39,22,6.718,4,27,0,29,1,66.4,112.35500000000005,2.881,1,6,2,1,4,2023-11-03
+a5bcd714-9e0f-4732-83ef-277c70a60c39,Kansas City Chiefs,Miami Dolphins,patrick mahomes,185,11,30,20,6.167,2,11,2,25,0,105.6,68.937,2.298,1,3,0,0,3,2023-11-05
+a5bcd714-9e0f-4732-83ef-277c70a60c39,Kansas City Chiefs,Miami Dolphins,tua tagovailoa,193,11,34,21,5.676,3,18,1,31,0,87.0,76.18399999999998,2.241,3,0,0,0,0,2023-11-05
+4ae2a998-855d-4746-a1ac-a35bca05a9e7,Atlanta Falcons,Minnesota Vikings,taylor heinicke,268,12,38,21,7.053,1,8,1,60,1,75.3,94.36,2.483,2,4,1,1,1,2023-11-05
+4ae2a998-855d-4746-a1ac-a35bca05a9e7,Atlanta Falcons,Minnesota Vikings,cam akers,0,0,0,0,0.0,1,7,0,0,0,0.0,1.145,0.0,0,0,0,0,0,2023-11-05
+4ae2a998-855d-4746-a1ac-a35bca05a9e7,Atlanta Falcons,Minnesota Vikings,jaren hall,78,3,6,5,13.0,0,0,0,47,0,118.8,14.819,2.47,0,0,0,0,3,2023-11-05
+4ae2a998-855d-4746-a1ac-a35bca05a9e7,Atlanta Falcons,Minnesota Vikings,josh dobbs,158,10,30,20,5.267,3,12,2,29,0,101.8,88.00099999999998,2.933,1,6,1,0,7,2023-11-05
+68f2e7c1-76cf-4b3e-9ba4-48a735d7d5c9,Baltimore Ravens,Seattle Seahawks,tyler huntley,38,3,7,5,5.429,0,0,1,13,0,123.8,12.114,1.731,0,1,0,0,5,2023-11-05
+68f2e7c1-76cf-4b3e-9ba4-48a735d7d5c9,Baltimore Ravens,Seattle Seahawks,lamar jackson,187,8,26,21,7.192,1,8,0,17,0,96.6,66.30600000000001,2.55,1,1,0,1,4,2023-11-05
+68f2e7c1-76cf-4b3e-9ba4-48a735d7d5c9,Baltimore Ravens,Seattle Seahawks,geno smith,157,5,28,13,5.607,4,34,0,50,1,49.3,81.07600000000001,2.896,1,7,3,0,2,2023-11-05
+7d46cf07-8a9d-40c7-84bf-7c6b98047f2c,New Orleans Saints,Chicago Bears,taysom hill,3,1,1,1,3.0,0,0,1,3,0,118.8,3.725,3.725,0,0,0,0,1,2023-11-05
+7d46cf07-8a9d-40c7-84bf-7c6b98047f2c,New Orleans Saints,Chicago Bears,derek carr,211,10,34,25,6.206,0,0,2,31,0,108.8,80.47099999999999,2.367,1,2,3,0,5,2023-11-05
+7d46cf07-8a9d-40c7-84bf-7c6b98047f2c,New Orleans Saints,Chicago Bears,tyson bagent,220,13,30,18,7.333,2,8,2,38,3,65.3,99.875,3.329,0,5,4,0,3,2023-11-05
+9550e518-b2be-4ef0-853f-48ed518d600d,Cleveland Browns,Arizona Cardinals,deshaun watson,219,9,30,19,7.3,1,6,2,59,0,107.5,71.42300000000002,2.381,3,1,1,1,4,2023-11-05
+9550e518-b2be-4ef0-853f-48ed518d600d,Cleveland Browns,Arizona Cardinals,clayton tune,58,3,20,11,2.9,7,41,0,14,2,20.8,60.33,3.016,1,6,0,0,0,2023-11-05
+b5c289ca-4905-494a-85ad-7c25d1c5586b,Houston Texans,Tampa Bay Buccaneers,c.j. stroud,470,22,42,30,11.19,3,27,5,75,0,147.8,122.74400000000004,2.922,2,1,3,1,7,2023-11-05
+b5c289ca-4905-494a-85ad-7c25d1c5586b,Houston Texans,Tampa Bay Buccaneers,baker mayfield,265,10,30,21,8.833,2,14,2,53,0,119.4,81.31900000000002,2.711,0,3,0,0,8,2023-11-05
+d13a3998-07a6-4fbb-b2d9-9092079b58a4,New England Patriots,Washington Commanders,mac jones,220,13,44,24,5.0,0,0,1,20,1,66.5,93.151,2.117,3,9,1,0,1,2023-11-05
+d13a3998-07a6-4fbb-b2d9-9092079b58a4,New England Patriots,Washington Commanders,sam howell,325,14,45,29,7.222,3,17,1,36,1,84.0,105.904,2.353,2,5,1,0,4,2023-11-05
+f22a607d-42d2-4d3b-939a-ef537b6ec9b9,Green Bay Packers,Los Angeles Rams,jordan love,228,10,26,20,8.769,4,21,1,37,0,115.5,82.098,3.158,2,1,0,1,0,2023-11-05
+f22a607d-42d2-4d3b-939a-ef537b6ec9b9,Green Bay Packers,Los Angeles Rams,brett rypien,130,6,28,13,4.643,1,11,0,34,1,45.2,71.43900000000002,2.551,1,10,1,0,0,2023-11-05
+bac639e2-d391-4483-acf8-18d77185f243,Carolina Panthers,Indianapolis Colts,bryce young,173,7,39,24,4.436,4,36,1,48,3,48.3,107.623,2.76,1,6,1,0,2,2023-11-05
+bac639e2-d391-4483-acf8-18d77185f243,Carolina Panthers,Indianapolis Colts,gardner minshew,127,7,26,17,4.885,1,7,1,19,0,89.7,65.22699999999999,2.509,0,3,2,0,3,2023-11-05
+7e44751b-9d3d-4722-aa34-959d722a7eb4,Philadelphia Eagles,Dallas Cowboys,jalen hurts,207,10,23,17,9.0,3,24,2,29,0,130.2,57.45000000000001,2.498,0,1,2,0,1,2023-11-05
+7e44751b-9d3d-4722-aa34-959d722a7eb4,Philadelphia Eagles,Dallas Cowboys,dak prescott,374,19,44,29,8.5,5,41,3,40,0,115.2,114.776,2.609,4,2,0,0,6,2023-11-05
+b1024e2b-bd0b-4c16-8ac8-42616be1ce79,Las Vegas Raiders,New York Giants,aidan o'connell,209,9,25,16,8.36,0,0,0,50,0,90.3,49.049,1.962,1,4,1,0,2,2023-11-05
+b1024e2b-bd0b-4c16-8ac8-42616be1ce79,Las Vegas Raiders,New York Giants,tommy devito,175,8,20,15,8.75,6,29,1,34,2,78.1,84.38500000000002,4.219,1,2,0,0,1,2023-11-05
+b1024e2b-bd0b-4c16-8ac8-42616be1ce79,Las Vegas Raiders,New York Giants,daniel jones,25,2,9,4,2.778,2,17,0,9,0,51.6,29.337,3.26,0,1,0,0,0,2023-11-05
+647d4013-1c0e-489c-bd79-56ab9c409ee2,Cincinnati Bengals,Buffalo Bills,joe burrow,348,17,44,31,7.909,1,5,2,32,0,108.9,123.03000000000004,2.796,4,3,2,0,8,2023-11-06
+647d4013-1c0e-489c-bd79-56ab9c409ee2,Cincinnati Bengals,Buffalo Bills,josh allen,258,11,38,26,6.789,1,9,1,34,1,85.2,105.54,2.777,0,1,3,0,5,2023-11-06
+25d42cdf-c6e7-41a3-a725-de6f6cb772d0,New York Jets,Los Angeles Chargers,zach wilson,263,12,49,33,5.367,8,57,0,33,0,80.6,139.299,2.843,3,7,1,0,3,2023-11-07
+25d42cdf-c6e7-41a3-a725-de6f6cb772d0,New York Jets,Los Angeles Chargers,justin herbert,136,7,30,16,4.533,5,29,0,23,0,65.4,90.97599999999998,3.033,3,5,2,0,1,2023-11-07
+4bed48a6-a6ba-4dfb-aaf5-6a656012f011,Chicago Bears,Carolina Panthers,tyson bagent,162,10,33,20,4.909,0,0,0,16,0,73.0,85.73,2.598,1,5,1,0,3,2023-11-10
+4bed48a6-a6ba-4dfb-aaf5-6a656012f011,Chicago Bears,Carolina Panthers,bryce young,185,6,38,21,4.868,3,15,0,45,0,68.4,106.44,2.801,2,3,4,0,2,2023-11-10
+d468f3aa-b44f-4bd7-9289-20b2b9578d8a,New England Patriots,Indianapolis Colts,mac jones,170,8,20,15,8.5,5,22,0,30,1,79.2,57.55800000000001,2.878,1,1,0,0,3,2023-11-12
+d468f3aa-b44f-4bd7-9289-20b2b9578d8a,New England Patriots,Indianapolis Colts,bailey zappe,25,1,7,3,3.571,0,0,0,11,1,13.1,13.241,1.892,0,0,1,0,0,2023-11-12
+d468f3aa-b44f-4bd7-9289-20b2b9578d8a,New England Patriots,Indianapolis Colts,gardner minshew,194,8,28,18,6.929,0,0,0,30,1,69.6,81.51299999999999,2.911,0,3,2,0,1,2023-11-12
+29b710d2-b858-48a1-89ef-96a274399e03,Pittsburgh Steelers,Green Bay Packers,kenny pickett,126,6,23,14,5.478,1,7,0,28,0,75.6,56.329,2.449,1,5,1,0,2,2023-11-12
+29b710d2-b858-48a1-89ef-96a274399e03,Pittsburgh Steelers,Green Bay Packers,jordan love,289,13,40,21,7.225,1,6,2,46,2,71.8,103.79599999999996,2.595,3,6,2,1,9,2023-11-12
+573c2928-75f0-4b8e-969a-e89ece45fd58,Minnesota Vikings,New Orleans Saints,josh dobbs,268,12,34,23,7.882,1,5,1,29,0,101.1,98.04599999999998,2.884,2,5,2,0,5,2023-11-12
+573c2928-75f0-4b8e-969a-e89ece45fd58,Minnesota Vikings,New Orleans Saints,derek carr,110,5,18,13,6.111,2,12,0,23,0,87.7,45.795,2.544,1,1,1,0,0,2023-11-12
+573c2928-75f0-4b8e-969a-e89ece45fd58,Minnesota Vikings,New Orleans Saints,jameis winston,122,5,25,13,4.88,1,5,2,26,2,59.1,57.681,2.307,2,5,1,0,4,2023-11-12
+5c95aadb-a7e9-4bcf-a029-de98b289d1a1,Cincinnati Bengals,Houston Texans,joe burrow,347,11,40,27,8.675,4,33,2,64,2,90.3,110.102,2.753,3,1,1,0,3,2023-11-12
+5c95aadb-a7e9-4bcf-a029-de98b289d1a1,Cincinnati Bengals,Houston Texans,c.j. stroud,356,16,39,23,9.128,1,0,1,34,1,87.1,112.91,2.895,2,7,0,0,8,2023-11-12
+b369059f-7afa-432e-a036-81c568eebe1c,Baltimore Ravens,Cleveland Browns,lamar jackson,223,9,23,13,9.696,3,23,1,40,2,67.8,64.801,2.817,2,5,0,0,2,2023-11-12
+b369059f-7afa-432e-a036-81c568eebe1c,Baltimore Ravens,Cleveland Browns,deshaun watson,213,10,34,20,6.265,4,18,1,28,1,74.8,96.044,2.825,2,1,2,0,7,2023-11-12
+b369059f-7afa-432e-a036-81c568eebe1c,Baltimore Ravens,Cleveland Browns,pj walker,0,0,1,0,0.0,0,0,0,0,0,39.6,4.846,4.846,0,1,0,0,0,2023-11-12
+b820ed44-098a-4c44-a28b-71203299a4a9,Tampa Bay Buccaneers,Tennessee Titans,baker mayfield,278,12,29,18,9.586,3,15,2,43,1,102.4,73.846,2.546,2,3,0,0,3,2023-11-12
+b820ed44-098a-4c44-a28b-71203299a4a9,Tampa Bay Buccaneers,Tennessee Titans,will levis,199,10,39,19,5.103,4,32,0,29,1,53.3,106.014,2.718,4,7,1,0,4,2023-11-12
+ea2ecf20-1fdf-4fa6-93fa-ebd69740b15a,Jacksonville Jaguars,San Francisco 49ers,trevor lawrence,185,7,29,17,6.379,5,28,0,39,2,48.8,98.65199999999996,3.402,0,4,1,0,3,2023-11-12
+ea2ecf20-1fdf-4fa6-93fa-ebd69740b15a,Jacksonville Jaguars,San Francisco 49ers,christian kirk,0,0,1,0,0.0,0,0,0,0,0,39.6,4.927,4.927,0,0,0,0,0,2023-11-12
+ea2ecf20-1fdf-4fa6-93fa-ebd69740b15a,Jacksonville Jaguars,San Francisco 49ers,cj beathard,5,0,2,1,2.5,0,0,0,5,0,56.3,4.906000000000001,2.453,1,0,0,0,0,2023-11-12
+ea2ecf20-1fdf-4fa6-93fa-ebd69740b15a,Jacksonville Jaguars,San Francisco 49ers,sam darnold,6,0,2,1,3.0,0,0,0,6,0,56.3,3.287,1.644,0,1,0,0,2,2023-11-12
+ea2ecf20-1fdf-4fa6-93fa-ebd69740b15a,Jacksonville Jaguars,San Francisco 49ers,brock purdy,296,11,26,19,11.385,2,9,3,66,0,148.9,87.729,3.374,0,3,1,0,4,2023-11-12
+16457a3c-fff2-47cf-968a-0b9f4ca8e72f,Los Angeles Chargers,Detroit Lions,justin herbert,323,16,40,27,8.075,0,0,4,38,1,114.9,84.489,2.112,1,4,0,0,4,2023-11-12
+16457a3c-fff2-47cf-968a-0b9f4ca8e72f,Los Angeles Chargers,Detroit Lions,jared goff,333,13,33,23,10.091,0,0,2,46,0,122.4,74.35400000000001,2.253,4,2,1,0,3,2023-11-12
+ea03abc0-8249-4a32-9634-85f92175cf85,Arizona Cardinals,Atlanta Falcons,kyler murray,249,11,32,19,7.781,2,19,0,33,1,71.0,86.77799999999999,2.712,2,5,1,0,2,2023-11-12
+ea03abc0-8249-4a32-9634-85f92175cf85,Arizona Cardinals,Atlanta Falcons,desmond ridder,39,2,6,4,6.5,0,0,0,18,0,84.7,15.461,2.577,0,0,0,0,0,2023-11-12
+ea03abc0-8249-4a32-9634-85f92175cf85,Arizona Cardinals,Atlanta Falcons,taylor heinicke,55,3,15,8,3.667,3,24,1,17,0,84.0,50.85499999999999,3.39,1,2,2,0,1,2023-11-12
+22addc26-3d63-479f-b15b-6574214df72f,Seattle Seahawks,Washington Commanders,geno smith,369,16,47,31,7.851,1,0,2,64,0,103.9,111.83899999999998,2.38,1,6,4,1,2,2023-11-12
+22addc26-3d63-479f-b15b-6574214df72f,Seattle Seahawks,Washington Commanders,sam howell,312,13,44,29,7.091,3,24,3,51,0,109.3,103.88,2.361,1,7,2,0,1,2023-11-12
+ef1efd80-b879-4c44-896b-96e913683fd7,Dallas Cowboys,New York Giants,cooper rush,68,3,9,7,7.556,0,0,0,29,1,58.6,16.857,1.873,0,0,0,0,1,2023-11-12
+ef1efd80-b879-4c44-896b-96e913683fd7,Dallas Cowboys,New York Giants,dak prescott,404,16,35,26,11.543,0,0,4,41,1,138.3,79.58800000000001,2.274,1,2,0,0,9,2023-11-12
+ef1efd80-b879-4c44-896b-96e913683fd7,Dallas Cowboys,New York Giants,tommy devito,86,5,27,14,3.185,5,25,2,26,1,67.8,76.418,2.83,0,5,1,0,8,2023-11-12
+e8d73abd-549f-4dbb-9775-6400369090b3,Las Vegas Raiders,New York Jets,aidan o'connell,153,7,27,16,5.667,3,27,1,42,1,72.0,77.089,2.855,1,3,2,0,1,2023-11-13
+e8d73abd-549f-4dbb-9775-6400369090b3,Las Vegas Raiders,New York Jets,zach wilson,263,11,39,23,6.744,2,6,0,41,1,68.6,104.23900000000002,2.673,2,5,2,0,1,2023-11-13
+e8d73abd-549f-4dbb-9775-6400369090b3,Las Vegas Raiders,New York Jets,garrett wilson,0,0,1,0,0.0,0,0,0,0,0,39.6,2.596,2.596,0,0,0,0,0,2023-11-13
+d76e1ced-576d-4915-ac04-f1893772864c,Buffalo Bills,Denver Broncos,josh allen,177,6,26,15,6.808,0,0,1,38,2,59.3,61.41499999999999,2.362,4,3,1,0,0,2023-11-14
+d76e1ced-576d-4915-ac04-f1893772864c,Buffalo Bills,Denver Broncos,russell wilson,193,12,29,24,6.655,4,15,2,30,0,117.4,82.431,2.842,2,0,0,0,4,2023-11-14
+643adc23-5f34-4b1d-8051-e40344a58a9b,Baltimore Ravens,Cincinnati Bengals,lamar jackson,264,9,26,16,10.154,3,16,2,68,0,121.3,107.349,4.129,0,2,3,0,3,2023-11-17
+643adc23-5f34-4b1d-8051-e40344a58a9b,Baltimore Ravens,Cincinnati Bengals,joe burrow,101,5,17,11,5.941,2,14,1,21,0,100.4,41.772,2.457,0,3,0,0,2,2023-11-17
+643adc23-5f34-4b1d-8051-e40344a58a9b,Baltimore Ravens,Cincinnati Bengals,jake browning,68,5,14,8,4.857,3,19,1,19,0,93.8,49.52,3.537,1,4,0,0,3,2023-11-17
+00d2cf55-59d3-4486-ae3e-9c1e338fdaf5,Carolina Panthers,Dallas Cowboys,bryce young,123,7,29,16,4.241,7,46,1,20,1,62.9,90.864,3.133,1,1,1,0,3,2023-11-19
+00d2cf55-59d3-4486-ae3e-9c1e338fdaf5,Carolina Panthers,Dallas Cowboys,cooper rush,15,1,3,2,5.0,0,0,0,10,0,78.5,6.879,2.293,0,0,0,0,0,2023-11-19
+00d2cf55-59d3-4486-ae3e-9c1e338fdaf5,Carolina Panthers,Dallas Cowboys,dak prescott,189,10,38,25,4.974,0,0,2,24,0,95.2,88.059,2.317,2,7,0,0,7,2023-11-19
+5a8b6e08-5379-4c81-9a0a-0c31c1b7dd02,Cleveland Browns,Pittsburgh Steelers,dorian thompson-robinson,165,10,43,24,3.837,1,2,0,18,1,54.9,78.47800000000001,1.825,9,3,0,2,5,2023-11-19
+5a8b6e08-5379-4c81-9a0a-0c31c1b7dd02,Cleveland Browns,Pittsburgh Steelers,kenny pickett,106,4,28,15,3.786,3,29,0,14,0,62.5,54.391000000000005,1.943,0,4,3,0,0,2023-11-19
+7b90aa8c-0c4b-485e-b747-60a7a02c6009,Detroit Lions,Chicago Bears,jared goff,236,14,35,23,6.743,2,13,2,32,3,68.3,95.538,2.73,0,1,4,0,6,2023-11-19
+7b90aa8c-0c4b-485e-b747-60a7a02c6009,Detroit Lions,Chicago Bears,justin fields,169,10,23,16,7.348,2,18,1,39,0,105.2,76.679,3.334,0,2,1,0,1,2023-11-19
+977145c3-a123-4bfd-a4ad-702e77b860ae,Houston Texans,Arizona Cardinals,tank dell,0,0,0,0,0.0,1,1,0,0,0,0.0,2.9,0.0,0,0,0,0,0,2023-11-19
+977145c3-a123-4bfd-a4ad-702e77b860ae,Houston Texans,Arizona Cardinals,c.j. stroud,336,18,37,27,9.081,3,29,2,40,3,85.0,94.075,2.543,1,4,0,0,6,2023-11-19
+977145c3-a123-4bfd-a4ad-702e77b860ae,Houston Texans,Arizona Cardinals,davis mills,2,0,1,1,2.0,0,0,0,2,0,79.2,2.207,2.207,0,0,0,0,0,2023-11-19
+977145c3-a123-4bfd-a4ad-702e77b860ae,Houston Texans,Arizona Cardinals,kyler murray,214,11,30,20,7.133,3,18,1,48,1,84.6,77.54999999999998,2.585,1,7,0,0,1,2023-11-19
+a03a8c20-a355-48a5-85f1-cdf446305709,Miami Dolphins,Las Vegas Raiders,tua tagovailoa,325,12,39,28,8.333,1,2,2,38,1,103.0,76.737,1.968,1,3,3,0,5,2023-11-19
+a03a8c20-a355-48a5-85f1-cdf446305709,Miami Dolphins,Las Vegas Raiders,aidan o'connell,271,10,41,24,6.61,2,11,1,46,3,56.0,104.784,2.556,2,6,2,0,2,2023-11-19
+c69aa504-fcd9-4dff-a261-a1e1bf4f4c9a,Washington Commanders,New York Giants,sam howell,256,12,45,31,5.689,4,26,1,29,3,62.8,109.825,2.441,2,3,3,0,6,2023-11-19
+c69aa504-fcd9-4dff-a261-a1e1bf4f4c9a,Washington Commanders,New York Giants,tommy devito,246,10,26,18,9.462,9,45,3,40,0,137.7,91.026,3.501,0,5,0,0,2,2023-11-19
+cea16d81-991e-4560-8af5-7fb15a631c43,Green Bay Packers,Los Angeles Chargers,jordan love,322,16,40,27,8.05,3,27,2,35,0,108.5,104.983,2.625,1,4,2,0,4,2023-11-19
+cea16d81-991e-4560-8af5-7fb15a631c43,Green Bay Packers,Los Angeles Chargers,justin herbert,260,11,36,21,7.222,2,16,2,51,0,99.3,101.733,2.826,4,5,0,0,8,2023-11-19
+f87e5f4f-d97c-4e86-9bc4-5a1539c41d04,Jacksonville Jaguars,Tennessee Titans,trevor lawrence,262,13,32,24,8.188,1,1,2,34,0,119.5,78.86899999999997,2.465,0,0,1,0,5,2023-11-19
+f87e5f4f-d97c-4e86-9bc4-5a1539c41d04,Jacksonville Jaguars,Tennessee Titans,will levis,158,6,17,13,9.294,2,15,2,49,0,143.8,42.965,2.527,0,3,0,0,1,2023-11-19
+9e858d5f-c8c6-4fed-b15c-4ffbe49b4002,San Francisco 49ers,Tampa Bay Buccaneers,brock purdy,333,14,25,21,13.32,4,28,3,76,0,158.3,84.45699999999998,3.378,0,0,0,0,5,2023-11-19
+9e858d5f-c8c6-4fed-b15c-4ffbe49b4002,San Francisco 49ers,Tampa Bay Buccaneers,baker mayfield,246,14,45,29,5.467,4,25,1,41,1,76.7,123.67499999999998,2.748,2,6,1,0,8,2023-11-19
+116f6230-d01f-40d5-901d-1baf79e4986a,Buffalo Bills,New York Jets,josh allen,275,10,32,20,8.594,1,12,3,81,1,108.2,79.85799999999999,2.496,4,3,2,0,4,2023-11-19
+116f6230-d01f-40d5-901d-1baf79e4986a,Buffalo Bills,New York Jets,tim boyle,33,1,14,7,2.357,1,10,0,7,1,26.5,33.617000000000004,2.401,2,2,0,0,0,2023-11-19
+116f6230-d01f-40d5-901d-1baf79e4986a,Buffalo Bills,New York Jets,zach wilson,81,6,15,7,5.4,5,30,1,18,1,57.9,47.514,3.168,2,3,2,0,2,2023-11-19
+116f6230-d01f-40d5-901d-1baf79e4986a,Buffalo Bills,New York Jets,thomas morstead,18,1,1,1,18.0,0,0,0,18,0,118.8,1.926,1.926,0,0,0,0,0,2023-11-19
+16a019e0-ab0a-47c4-883f-3b6eec5e03a5,Los Angeles Rams,Seattle Seahawks,matthew stafford,190,9,31,17,6.129,1,5,1,32,1,70.6,83.50899999999999,2.694,4,5,2,0,7,2023-11-19
+16a019e0-ab0a-47c4-883f-3b6eec5e03a5,Los Angeles Rams,Seattle Seahawks,drew lock,3,0,6,2,0.5,0,0,0,4,1,2.8,12.764,2.127,0,1,0,0,0,2023-11-19
+16a019e0-ab0a-47c4-883f-3b6eec5e03a5,Los Angeles Rams,Seattle Seahawks,geno smith,233,12,34,22,6.853,2,13,1,53,0,94.4,81.45000000000002,2.396,2,5,1,1,2,2023-11-19
+9715aada-fd9d-4e6b-9824-13629029cf6a,Denver Broncos,Minnesota Vikings,russell wilson,259,11,35,27,7.4,2,10,1,33,0,106.7,94.332,2.695,0,2,3,0,4,2023-11-20
+9715aada-fd9d-4e6b-9824-13629029cf6a,Denver Broncos,Minnesota Vikings,josh dobbs,221,9,32,20,6.906,2,11,1,29,1,80.3,96.52699999999996,3.016,1,6,1,0,4,2023-11-20
+5eedbc61-0130-459e-a640-efcc30708407,Kansas City Chiefs,Philadelphia Eagles,patrick mahomes,177,10,43,24,4.116,1,9,2,17,1,71.6,103.476,2.406,3,4,3,1,4,2023-11-21
+5eedbc61-0130-459e-a640-efcc30708407,Kansas City Chiefs,Philadelphia Eagles,jalen hurts,150,5,22,14,6.818,5,26,0,41,1,64.6,56.207,2.555,0,2,1,0,2,2023-11-21
+9190f168-b337-4e0c-8125-be23e8997c48,Detroit Lions,Green Bay Packers,jared goff,332,17,44,29,7.545,3,8,2,38,0,103.6,109.104,2.48,2,2,2,0,4,2023-11-23
+9190f168-b337-4e0c-8125-be23e8997c48,Detroit Lions,Green Bay Packers,jordan love,268,13,32,22,8.375,0,0,3,53,0,125.5,74.989,2.343,2,1,2,0,4,2023-11-23
+c452d212-f557-4234-83ad-d66fa417d3e5,Dallas Cowboys,Washington Commanders,dak prescott,331,15,32,22,10.344,0,0,4,35,0,142.1,78.61399999999998,2.457,1,3,0,0,3,2023-11-23
+c452d212-f557-4234-83ad-d66fa417d3e5,Dallas Cowboys,Washington Commanders,sam howell,300,15,44,28,6.818,4,32,0,30,1,74.1,116.263,2.642,2,6,0,0,2,2023-11-23
+0b230e93-217b-4938-a9cf-324d95b4c8f7,Seattle Seahawks,San Francisco 49ers,geno smith,180,6,27,18,6.667,6,48,0,34,1,70.0,78.742,2.916,1,5,0,0,1,2023-11-24
+0b230e93-217b-4938-a9cf-324d95b4c8f7,Seattle Seahawks,San Francisco 49ers,deebo samuel sr.,0,0,1,0,0.0,0,0,0,0,0,39.6,0.608,0.608,0,0,1,0,0,2023-11-24
+0b230e93-217b-4938-a9cf-324d95b4c8f7,Seattle Seahawks,San Francisco 49ers,brock purdy,209,10,30,21,6.967,1,1,1,28,1,86.7,84.16900000000001,2.806,0,3,0,0,4,2023-11-24
+0133115f-86e4-46ee-b527-c793a1a1ebed,New York Jets,Miami Dolphins,tim boyle,179,9,38,27,4.711,7,49,1,13,2,67.8,96.79200000000002,2.547,1,3,1,0,3,2023-11-24
+0133115f-86e4-46ee-b527-c793a1a1ebed,New York Jets,Miami Dolphins,tua tagovailoa,243,14,30,21,8.1,2,15,1,35,2,77.5,57.287,1.91,3,2,1,1,2,2023-11-24
+09351e38-7ca1-4bd2-8c13-8d6af8fcd9c1,Houston Texans,Jacksonville Jaguars,c.j. stroud,304,12,36,26,8.444,4,43,2,34,0,116.0,139.94599999999997,3.887,0,2,0,0,3,2023-11-26
+09351e38-7ca1-4bd2-8c13-8d6af8fcd9c1,Houston Texans,Jacksonville Jaguars,trevor lawrence,364,13,38,23,9.579,0,0,1,57,1,90.2,89.89399999999999,2.366,3,4,1,0,3,2023-11-26
+0e44c04f-93ff-4196-8664-47246c17b4bf,Cincinnati Bengals,Pittsburgh Steelers,jake browning,227,9,26,19,8.731,4,30,1,39,1,96.2,75.99600000000002,2.923,0,5,1,0,3,2023-11-26
+0e44c04f-93ff-4196-8664-47246c17b4bf,Cincinnati Bengals,Pittsburgh Steelers,kenny pickett,278,15,33,24,8.424,2,10,0,43,0,97.8,84.10599999999998,2.549,0,3,1,0,2,2023-11-26
+44de8740-e448-4016-adf6-02501056d48b,Tennessee Titans,Carolina Panthers,will levis,185,9,28,18,6.607,1,1,0,25,0,83.2,68.239,2.437,1,5,0,1,1,2023-11-26
+44de8740-e448-4016-adf6-02501056d48b,Tennessee Titans,Carolina Panthers,bryce young,194,7,31,18,6.258,4,32,0,25,0,76.5,93.019,3.001,1,1,7,0,0,2023-11-26
+5d5eb028-65f2-454e-8aca-5ec00fb31785,Atlanta Falcons,New Orleans Saints,desmond ridder,168,9,21,13,8.0,0,0,1,29,2,63.3,48.517,2.31,2,4,1,0,2,2023-11-26
+5d5eb028-65f2-454e-8aca-5ec00fb31785,Atlanta Falcons,New Orleans Saints,derek carr,304,13,38,24,8.0,1,8,0,51,1,77.1,87.99,2.316,1,5,2,0,5,2023-11-26
+6c37caee-72d0-4eab-9fc5-a11155504d39,Indianapolis Colts,Tampa Bay Buccaneers,gardner minshew,251,13,41,24,6.122,2,12,0,30,1,66.2,91.72900000000004,2.237,4,6,1,0,6,2023-11-26
+6c37caee-72d0-4eab-9fc5-a11155504d39,Indianapolis Colts,Tampa Bay Buccaneers,baker mayfield,199,9,30,20,6.633,6,26,2,24,1,93.6,83.546,2.785,3,5,1,0,3,2023-11-26
+6c37caee-72d0-4eab-9fc5-a11155504d39,Indianapolis Colts,Tampa Bay Buccaneers,kyle trask,0,0,1,0,0.0,0,0,0,0,0,39.6,2.333,2.333,1,0,0,0,1,2023-11-26
+710037c3-9ffd-47e5-9e47-9ec56f87ea94,New York Giants,New England Patriots,tommy devito,191,7,25,17,7.64,6,29,1,41,0,103.9,80.39,3.216,3,4,1,0,2,2023-11-26
+710037c3-9ffd-47e5-9e47-9ec56f87ea94,New York Giants,New England Patriots,bailey zappe,54,3,14,9,3.857,1,7,0,15,1,42.0,31.447000000000003,2.246,1,3,0,0,0,2023-11-26
+710037c3-9ffd-47e5-9e47-9ec56f87ea94,New York Giants,New England Patriots,mac jones,89,5,21,12,4.238,1,0,0,19,2,27.8,45.28200000000001,2.156,2,2,0,0,0,2023-11-26
+29f5d3d8-b174-4a65-8f3f-008ea4afa75d,Denver Broncos,Cleveland Browns,russell wilson,134,5,22,13,6.091,1,9,1,31,0,91.9,64.59200000000001,2.936,3,2,1,0,3,2023-11-26
+29f5d3d8-b174-4a65-8f3f-008ea4afa75d,Denver Broncos,Cleveland Browns,pj walker,56,2,13,6,4.308,4,28,0,26,0,58.5,44.999,3.461,1,1,0,0,0,2023-11-26
+29f5d3d8-b174-4a65-8f3f-008ea4afa75d,Denver Broncos,Cleveland Browns,dorian thompson-robinson,134,8,29,14,4.621,0,0,1,23,0,73.1,74.965,2.585,2,3,3,0,7,2023-11-26
+aa6d465e-8567-40ce-9e52-6c0d0895de82,Arizona Cardinals,Los Angeles Rams,kyler murray,256,11,45,27,5.689,4,37,1,36,0,83.2,116.191,2.582,0,10,1,0,4,2023-11-26
+aa6d465e-8567-40ce-9e52-6c0d0895de82,Arizona Cardinals,Los Angeles Rams,matthew stafford,229,16,33,25,6.939,0,0,4,42,1,121.1,72.40800000000003,2.194,0,1,2,0,9,2023-11-26
+836211c3-a784-44d9-a704-3fc0c7364855,Philadelphia Eagles,Buffalo Bills,jalen hurts,200,12,31,18,6.452,2,7,3,33,1,96.2,107.372,3.464,1,3,3,0,3,2023-11-26
+836211c3-a784-44d9-a704-3fc0c7364855,Philadelphia Eagles,Buffalo Bills,josh allen,339,15,51,29,6.647,1,7,2,31,1,82.1,138.06600000000003,2.707,3,9,2,0,5,2023-11-26
+e80738f3-d456-4d00-991d-580cbc993a1b,Las Vegas Raiders,Kansas City Chiefs,aidan o'connell,248,12,33,23,7.515,1,13,1,33,0,101.6,76.531,2.319,2,2,1,0,2,2023-11-26
+e80738f3-d456-4d00-991d-580cbc993a1b,Las Vegas Raiders,Kansas City Chiefs,jakobi meyers,0,0,1,0,0.0,0,0,0,0,0,39.6,2.631,2.631,0,0,1,0,0,2023-11-26
+e80738f3-d456-4d00-991d-580cbc993a1b,Las Vegas Raiders,Kansas City Chiefs,patrick mahomes,298,17,34,27,8.765,1,7,2,39,0,122.8,85.99199999999999,2.529,2,0,2,0,7,2023-11-26
+3cbffd50-da79-4ffb-a04b-766176b1ea00,Los Angeles Chargers,Baltimore Ravens,justin herbert,217,11,44,29,4.932,3,24,1,31,1,75.7,101.37799999999996,2.304,2,7,2,0,6,2023-11-27
+3cbffd50-da79-4ffb-a04b-766176b1ea00,Los Angeles Chargers,Baltimore Ravens,lamar jackson,177,9,32,18,5.531,2,13,1,21,0,82.4,71.07,2.221,1,4,2,0,1,2023-11-27
+fc1105aa-9391-42b9-a59f-0b8879642cde,Minnesota Vikings,Chicago Bears,josh dobbs,185,8,32,22,5.781,2,16,1,28,4,54.3,81.74300000000001,2.554,1,4,2,0,2,2023-11-28
+fc1105aa-9391-42b9-a59f-0b8879642cde,Minnesota Vikings,Chicago Bears,justin fields,217,12,37,27,5.865,3,18,0,36,0,87.3,89.65799999999999,2.423,0,3,5,0,2,2023-11-28
+6101c145-f366-4918-8642-d7936f38c214,Dallas Cowboys,Seattle Seahawks,dak prescott,299,19,41,29,7.293,4,24,3,23,0,115.8,125.97499999999998,3.073,4,3,1,0,14,2023-12-01
+6101c145-f366-4918-8642-d7936f38c214,Dallas Cowboys,Seattle Seahawks,deejay dallas,0,0,0,0,0.0,1,0,0,0,0,0.0,4.029,0.0,0,0,0,0,0,2023-12-01
+6101c145-f366-4918-8642-d7936f38c214,Dallas Cowboys,Seattle Seahawks,geno smith,334,16,41,23,8.146,0,0,3,73,1,97.0,90.663,2.211,3,6,1,1,6,2023-12-01
+4d89a5c1-9d45-40fa-acb9-4af0b43cfe72,Houston Texans,Denver Broncos,c.j. stroud,274,7,27,16,10.148,5,28,1,59,0,106.1,82.176,3.044,2,1,1,0,4,2023-12-03
+4d89a5c1-9d45-40fa-acb9-4af0b43cfe72,Houston Texans,Denver Broncos,davis mills,18,1,1,1,18.0,0,0,0,18,0,118.8,2.188,2.188,0,0,0,0,0,2023-12-03
+4d89a5c1-9d45-40fa-acb9-4af0b43cfe72,Houston Texans,Denver Broncos,russell wilson,186,5,26,15,7.154,3,22,1,45,3,53.2,71.72400000000002,2.759,1,6,2,0,6,2023-12-03
+64ef040c-fbfd-4599-8d5f-0af7c00a6f67,Washington Commanders,Miami Dolphins,sam howell,127,5,23,12,5.522,3,20,0,33,1,50.5,70.963,3.085,1,3,2,0,2,2023-12-03
+64ef040c-fbfd-4599-8d5f-0af7c00a6f67,Washington Commanders,Miami Dolphins,tua tagovailoa,280,10,24,18,11.667,0,0,2,78,0,141.0,59.05800000000001,2.461,1,2,0,0,0,2023-12-03
+64ef040c-fbfd-4599-8d5f-0af7c00a6f67,Washington Commanders,Miami Dolphins,mike white,3,0,1,1,3.0,0,0,0,3,0,79.2,0.413,0.413,0,0,0,0,1,2023-12-03
+92503fb3-b59c-4c54-a639-fa88067a3e17,Tennessee Titans,Indianapolis Colts,will levis,224,12,33,16,6.788,6,20,1,39,0,80.9,107.78,3.266,2,5,0,0,4,2023-12-03
+92503fb3-b59c-4c54-a639-fa88067a3e17,Tennessee Titans,Indianapolis Colts,gardner minshew,312,10,42,26,7.429,3,12,2,55,0,100.5,112.6,2.681,1,6,1,0,5,2023-12-03
+c1d7d797-4187-45a5-ad40-54eacb7d6754,New York Jets,Atlanta Falcons,trevor siemian,66,3,13,5,5.077,3,12,0,25,0,55.3,43.922,3.379,0,2,0,0,0,2023-12-03
+c1d7d797-4187-45a5-ad40-54eacb7d6754,New York Jets,Atlanta Falcons,tim boyle,148,6,25,14,5.92,1,5,0,36,1,56.8,69.62400000000001,2.785,1,0,1,0,2,2023-12-03
+c1d7d797-4187-45a5-ad40-54eacb7d6754,New York Jets,Atlanta Falcons,desmond ridder,121,9,27,12,4.481,3,17,1,20,0,70.1,76.05699999999999,2.817,1,3,2,0,2,2023-12-03
+c62de0b4-a85e-498e-a007-eb0eb7df47aa,Pittsburgh Steelers,Arizona Cardinals,kenny pickett,70,5,10,7,7.0,0,0,0,38,0,89.6,26.691000000000003,2.669,0,3,0,0,3,2023-12-03
+c62de0b4-a85e-498e-a007-eb0eb7df47aa,Pittsburgh Steelers,Arizona Cardinals,mitch trubisky,117,8,17,11,6.882,0,0,1,26,0,104.3,44.273,2.604,2,2,0,0,1,2023-12-03
+c62de0b4-a85e-498e-a007-eb0eb7df47aa,Pittsburgh Steelers,Arizona Cardinals,kyler murray,145,7,23,13,6.304,2,13,1,21,0,89.9,54.76600000000001,2.381,2,5,0,0,2,2023-12-03
+dd216370-628b-45a4-938c-83dad15dc60f,New Orleans Saints,Detroit Lions,jameis winston,41,2,5,2,8.2,0,0,0,30,0,69.6,11.595,2.319,1,0,0,0,0,2023-12-03
+dd216370-628b-45a4-938c-83dad15dc60f,New Orleans Saints,Detroit Lions,taysom hill,0,0,2,0,0.0,0,0,0,0,0,39.6,5.394,2.697,0,1,0,0,0,2023-12-03
+dd216370-628b-45a4-938c-83dad15dc60f,New Orleans Saints,Detroit Lions,derek carr,226,10,22,17,10.273,2,18,1,33,1,105.5,62.343,2.834,2,2,0,0,1,2023-12-03
+dd216370-628b-45a4-938c-83dad15dc60f,New Orleans Saints,Detroit Lions,jared goff,213,9,25,16,8.52,1,8,2,48,0,117.6,59.82300000000001,2.393,3,2,0,0,4,2023-12-03
+e06640f6-dbdb-430c-b1a9-f398477a0f81,New England Patriots,Los Angeles Chargers,bailey zappe,141,5,25,13,5.64,5,32,0,27,0,68.9,78.48400000000001,3.139,2,3,1,0,0,2023-12-03
+e06640f6-dbdb-430c-b1a9-f398477a0f81,New England Patriots,Los Angeles Chargers,justin herbert,212,8,37,22,5.73,0,0,0,27,0,75.5,87.44100000000002,2.363,4,6,1,0,0,2023-12-03
+a0796442-e122-49d3-a735-f8e9e4b71f28,Tampa Bay Buccaneers,Carolina Panthers,baker mayfield,202,7,29,14,6.966,1,8,1,75,1,68.5,66.311,2.287,3,5,2,0,0,2023-12-03
+a0796442-e122-49d3-a735-f8e9e4b71f28,Tampa Bay Buccaneers,Carolina Panthers,bryce young,178,7,31,15,5.742,4,29,0,31,1,52.9,88.65500000000002,2.86,1,3,5,0,2,2023-12-03
+0faaca68-aae3-4632-b12b-35a9c8b7941e,Philadelphia Eagles,San Francisco 49ers,marcus mariota,16,1,3,2,5.333,0,0,0,12,0,79.9,8.034,2.678,0,1,0,0,0,2023-12-03
+0faaca68-aae3-4632-b12b-35a9c8b7941e,Philadelphia Eagles,San Francisco 49ers,jalen hurts,298,18,45,26,6.622,3,27,1,38,0,85.2,182.786,4.062,0,10,5,0,9,2023-12-03
+0faaca68-aae3-4632-b12b-35a9c8b7941e,Philadelphia Eagles,San Francisco 49ers,brock purdy,314,12,27,19,11.63,2,4,4,48,0,148.8,75.97599999999998,2.814,0,1,2,0,3,2023-12-03
+3bb41c33-5d92-46c5-8954-dea91ef6dc0e,Los Angeles Rams,Cleveland Browns,matthew stafford,279,10,37,22,7.541,0,0,3,70,0,110.1,78.38399999999997,2.118,2,2,3,0,4,2023-12-03
+3bb41c33-5d92-46c5-8954-dea91ef6dc0e,Los Angeles Rams,Cleveland Browns,joe flacco,254,10,44,23,5.773,2,14,2,42,1,75.4,115.80299999999995,2.632,2,5,3,0,3,2023-12-03
+c3184f83-079a-4a79-a4d9-d1f31b9d2de7,Green Bay Packers,Kansas City Chiefs,jordan love,267,15,36,25,7.417,2,14,3,33,0,118.6,90.95499999999996,2.527,1,0,1,0,7,2023-12-04
+c3184f83-079a-4a79-a4d9-d1f31b9d2de7,Green Bay Packers,Kansas City Chiefs,patrick mahomes,210,13,33,21,6.364,3,21,1,27,1,79.1,86.73600000000002,2.628,2,4,2,0,4,2023-12-04
+0b65ee33-24f0-4dce-942d-ab994f600328,Jacksonville Jaguars,Cincinnati Bengals,trevor lawrence,258,10,29,22,8.897,2,14,2,26,0,125.4,64.53600000000002,2.225,1,4,0,0,5,2023-12-05
+0b65ee33-24f0-4dce-942d-ab994f600328,Jacksonville Jaguars,Cincinnati Bengals,cj beathard,63,3,10,9,6.3,2,2,0,19,0,92.9,24.613,2.461,0,0,0,0,0,2023-12-05
+0b65ee33-24f0-4dce-942d-ab994f600328,Jacksonville Jaguars,Cincinnati Bengals,jake browning,354,17,37,32,9.568,2,12,1,76,0,115.5,84.12299999999999,2.274,2,1,2,0,3,2023-12-05
+0b65ee33-24f0-4dce-942d-ab994f600328,Jacksonville Jaguars,Cincinnati Bengals,ja'marr chase,-7,0,1,1,-7.0,0,0,0,-7,0,79.2,2.975,2.975,0,0,0,0,0,2023-12-05
+0b65ee33-24f0-4dce-942d-ab994f600328,Jacksonville Jaguars,Cincinnati Bengals,tyler boyd,0,0,1,0,0.0,0,0,0,0,1,0.0,2.068,2.068,0,0,0,0,0,2023-12-05
+aa0f5109-cc6b-41b3-be37-b47d80e21e51,Pittsburgh Steelers,New England Patriots,mitch trubisky,190,10,35,22,5.429,2,8,1,25,1,74.7,92.701,2.649,1,3,1,0,2,2023-12-08
+aa0f5109-cc6b-41b3-be37-b47d80e21e51,Pittsburgh Steelers,New England Patriots,connor heyward,0,0,1,0,0.0,0,0,0,0,0,39.6,2.077,2.077,0,1,0,0,1,2023-12-08
+aa0f5109-cc6b-41b3-be37-b47d80e21e51,Pittsburgh Steelers,New England Patriots,bailey zappe,240,11,28,19,8.571,2,18,3,37,1,115.2,75.22399999999999,2.687,2,2,2,0,2,2023-12-08
+15bb08b6-5b5d-41d8-bf94-a287c1a89adc,New Orleans Saints,Carolina Panthers,derek carr,119,8,26,18,4.577,1,9,2,44,1,88.5,56.986,2.192,0,3,4,0,6,2023-12-10
+15bb08b6-5b5d-41d8-bf94-a287c1a89adc,New Orleans Saints,Carolina Panthers,bryce young,137,4,36,13,3.806,4,38,0,32,0,48.0,104.11799999999997,2.892,1,8,4,0,1,2023-12-10
+20cb63bb-cb3a-4682-9ae7-4ca884fd8d15,Baltimore Ravens,Los Angeles Rams,lamar jackson,316,17,43,24,7.349,2,6,3,54,1,92.8,136.672,3.178,3,3,3,0,4,2023-12-10
+20cb63bb-cb3a-4682-9ae7-4ca884fd8d15,Baltimore Ravens,Los Angeles Rams,matthew stafford,294,14,41,23,7.171,2,12,3,34,0,103.1,116.25299999999996,2.835,2,2,3,0,11,2023-12-10
+63826426-2bfc-4092-be72-0e217ae59945,Cincinnati Bengals,Indianapolis Colts,aj mccarron,-1,0,1,1,-1.0,0,0,0,0,0,79.2,2.808,2.808,0,0,0,0,0,2023-12-10
+63826426-2bfc-4092-be72-0e217ae59945,Cincinnati Bengals,Indianapolis Colts,jake browning,275,11,24,18,11.458,0,0,2,54,1,122.7,63.48499999999999,2.645,2,3,0,0,5,2023-12-10
+63826426-2bfc-4092-be72-0e217ae59945,Cincinnati Bengals,Indianapolis Colts,gardner minshew,240,14,39,26,6.154,3,14,1,31,1,81.1,101.126,2.593,3,6,1,0,1,2023-12-10
+a8db3d9a-c5fc-44fe-a672-b15ad4fb52c9,Cleveland Browns,Jacksonville Jaguars,joe flacco,311,11,45,26,6.911,1,4,3,41,1,92.0,108.07599999999996,2.402,1,6,2,0,1,2023-12-10
+a8db3d9a-c5fc-44fe-a672-b15ad4fb52c9,Cleveland Browns,Jacksonville Jaguars,trevor lawrence,257,16,50,28,5.14,4,22,3,23,3,65.2,116.26000000000002,2.325,0,9,2,0,7,2023-12-10
+b1aaf072-e11f-44e0-81a2-b01f005065b6,Chicago Bears,Detroit Lions,justin fields,223,10,33,19,6.758,3,29,1,41,0,88.3,91.88500000000002,2.784,3,4,2,0,8,2023-12-10
+b1aaf072-e11f-44e0-81a2-b01f005065b6,Chicago Bears,Detroit Lions,jared goff,161,7,35,20,4.6,4,34,1,27,2,54.6,81.22,2.321,3,5,1,0,4,2023-12-10
+efd4ae35-4de5-47d4-85fe-cfcdbe3d68c1,Atlanta Falcons,Tampa Bay Buccaneers,desmond ridder,347,15,40,26,8.675,3,9,1,45,1,90.3,94.34199999999998,2.359,1,8,0,1,4,2023-12-10
+efd4ae35-4de5-47d4-85fe-cfcdbe3d68c1,Atlanta Falcons,Tampa Bay Buccaneers,baker mayfield,144,8,29,14,4.966,1,2,2,32,0,86.0,82.74899999999998,2.853,1,5,0,0,1,2023-12-10
+f9ec8c4b-2a60-409f-804a-bead8260e2a4,New York Jets,Houston Texans,zach wilson,301,15,36,27,8.361,4,33,2,27,0,117.9,102.003,2.833,1,3,1,0,4,2023-12-10
+f9ec8c4b-2a60-409f-804a-bead8260e2a4,New York Jets,Houston Texans,davis mills,4,0,5,1,0.8,1,3,0,4,0,39.6,15.432,3.086,0,3,0,0,0,2023-12-10
+f9ec8c4b-2a60-409f-804a-bead8260e2a4,New York Jets,Houston Texans,c.j. stroud,91,4,23,10,3.957,4,38,0,26,0,54.8,72.06299999999999,3.133,2,7,1,0,1,2023-12-10
+261e687a-fcd0-4ccc-8691-bb4b7b321106,San Francisco 49ers,Seattle Seahawks,brock purdy,368,12,27,19,13.63,3,14,2,54,1,122.1,73.92399999999999,2.738,1,4,0,0,2,2023-12-10
+261e687a-fcd0-4ccc-8691-bb4b7b321106,San Francisco 49ers,Seattle Seahawks,drew lock,269,11,31,22,8.677,4,15,2,31,2,92.0,87.78899999999997,2.832,3,5,0,0,2,2023-12-10
+88d49c99-0da4-4502-81d2-6def83bb058a,Las Vegas Raiders,Minnesota Vikings,aidan o'connell,171,5,32,21,5.344,4,25,0,38,1,66.0,90.529,2.829,1,2,3,0,1,2023-12-10
+88d49c99-0da4-4502-81d2-6def83bb058a,Las Vegas Raiders,Minnesota Vikings,josh dobbs,63,5,23,10,2.739,5,47,0,15,0,50.8,76.03199999999998,3.306,2,3,1,0,0,2023-12-10
+88d49c99-0da4-4502-81d2-6def83bb058a,Las Vegas Raiders,Minnesota Vikings,nick mullens,83,4,13,9,6.385,0,0,0,26,0,86.4,33.083,2.545,0,0,0,0,0,2023-12-10
+8f11c18a-3ed1-40f3-94c5-7aca9fb9de47,Kansas City Chiefs,Buffalo Bills,patrick mahomes,271,14,43,25,6.302,1,7,1,23,1,74.9,95.674,2.225,2,4,4,0,7,2023-12-10
+8f11c18a-3ed1-40f3-94c5-7aca9fb9de47,Kansas City Chiefs,Buffalo Bills,josh allen,233,12,42,23,5.548,3,24,1,27,1,68.8,95.78099999999998,2.28,2,6,4,1,3,2023-12-10
+ebdaafda-0bae-4a34-9e44-349841e1b3bc,Los Angeles Chargers,Denver Broncos,justin herbert,96,5,17,9,5.647,4,37,0,18,1,45.2,60.71199999999999,3.571,0,2,0,0,3,2023-12-10
+ebdaafda-0bae-4a34-9e44-349841e1b3bc,Los Angeles Chargers,Denver Broncos,easton stick,179,8,24,13,7.458,2,31,0,57,0,78.3,70.24399999999999,2.927,0,6,0,0,1,2023-12-10
+ebdaafda-0bae-4a34-9e44-349841e1b3bc,Los Angeles Chargers,Denver Broncos,keenan allen,0,0,1,0,0.0,0,0,0,0,0,39.6,4.293,4.293,0,0,0,0,0,2023-12-10
+ebdaafda-0bae-4a34-9e44-349841e1b3bc,Los Angeles Chargers,Denver Broncos,russell wilson,224,9,33,21,6.788,2,8,2,46,1,91.0,99.48,3.015,1,4,3,0,4,2023-12-10
+1afdd4c3-89b8-4e67-8e1b-295f3fa2d4d3,Dallas Cowboys,Philadelphia Eagles,dak prescott,271,13,39,24,6.949,3,15,2,39,0,99.4,101.45599999999996,2.601,4,9,0,0,4,2023-12-11
+1afdd4c3-89b8-4e67-8e1b-295f3fa2d4d3,Dallas Cowboys,Philadelphia Eagles,braden mann,28,1,1,1,28.0,0,0,0,28,0,118.8,2.075,2.075,0,0,0,0,0,2023-12-11
+1afdd4c3-89b8-4e67-8e1b-295f3fa2d4d3,Dallas Cowboys,Philadelphia Eagles,jalen hurts,197,9,27,18,7.296,1,7,0,30,0,88.0,62.887,2.329,4,3,0,0,1,2023-12-11
+7d4cba90-ef28-4c39-875a-02ab9fe44ae5,New York Giants,Green Bay Packers,tommy devito,158,8,21,17,7.524,0,0,1,32,0,113.9,45.728,2.178,1,0,1,0,1,2023-12-12
+7d4cba90-ef28-4c39-875a-02ab9fe44ae5,New York Giants,Green Bay Packers,jordan love,218,12,39,25,5.59,2,15,1,43,1,76.7,92.08899999999998,2.361,2,4,1,0,8,2023-12-12
+a83301f9-7a05-4159-9a05-35a2cba4bc15,Miami Dolphins,Tennessee Titans,tua tagovailoa,240,9,33,23,7.273,5,32,0,25,0,90.5,84.49999999999997,2.561,0,3,0,0,3,2023-12-12
+a83301f9-7a05-4159-9a05-35a2cba4bc15,Miami Dolphins,Tennessee Titans,will levis,327,16,38,23,8.605,1,7,1,45,1,86.2,92.10699999999996,2.424,1,7,2,0,5,2023-12-12
+f7ea44fb-336b-4b4e-a369-70f9ef56174d,Las Vegas Raiders,Los Angeles Chargers,jakobi meyers,12,1,2,2,6.0,0,0,1,9,0,131.3,3.522,1.761,0,0,0,0,1,2023-12-15
+f7ea44fb-336b-4b4e-a369-70f9ef56174d,Las Vegas Raiders,Los Angeles Chargers,aidan o'connell,248,12,34,20,7.294,1,6,4,30,0,120.7,90.35999999999996,2.658,0,9,2,0,6,2023-12-15
+f7ea44fb-336b-4b4e-a369-70f9ef56174d,Las Vegas Raiders,Los Angeles Chargers,easton stick,257,13,32,23,8.031,3,23,3,79,1,113.7,84.24299999999998,2.633,0,2,1,0,2,2023-12-15
+3d21e60f-18aa-4a25-bc47-ba6bc31f4938,Cincinnati Bengals,Minnesota Vikings,tanner hudson,0,0,0,0,0.0,1,4,0,0,0,0.0,4.966,0.0,0,0,0,0,0,2023-12-16
+3d21e60f-18aa-4a25-bc47-ba6bc31f4938,Cincinnati Bengals,Minnesota Vikings,jake browning,324,17,42,29,7.714,4,22,2,44,1,97.7,116.987,2.785,1,6,2,0,3,2023-12-16
+3d21e60f-18aa-4a25-bc47-ba6bc31f4938,Cincinnati Bengals,Minnesota Vikings,justin jefferson,0,0,1,0,0.0,0,0,0,0,0,39.6,3.184,3.184,0,0,0,0,0,2023-12-16
+3d21e60f-18aa-4a25-bc47-ba6bc31f4938,Cincinnati Bengals,Minnesota Vikings,nick mullens,303,16,33,26,9.182,3,22,2,37,2,99.9,97.494,2.954,0,2,1,0,3,2023-12-16
+960b80c5-f160-46ee-8817-97f860b5f12b,Indianapolis Colts,Pittsburgh Steelers,gardner minshew,215,8,28,18,7.679,3,13,3,42,0,123.4,64.077,2.288,2,4,1,0,10,2023-12-16
+960b80c5-f160-46ee-8817-97f860b5f12b,Indianapolis Colts,Pittsburgh Steelers,mason rudolph,3,0,3,2,1.0,1,11,0,6,0,70.1,9.213,3.071,0,0,0,0,0,2023-12-16
+960b80c5-f160-46ee-8817-97f860b5f12b,Indianapolis Colts,Pittsburgh Steelers,mitch trubisky,169,9,23,16,7.348,3,19,1,25,2,68.9,62.484,2.717,0,1,0,0,1,2023-12-16
+e7fe0f04-657a-4d37-94be-fbbfc7ed3fac,Detroit Lions,Denver Broncos,jared goff,278,18,34,24,8.176,2,15,5,29,0,134.6,90.66899999999998,2.667,0,3,2,0,9,2023-12-17
+e7fe0f04-657a-4d37-94be-fbbfc7ed3fac,Detroit Lions,Denver Broncos,russell wilson,223,12,32,18,6.969,2,19,1,40,0,88.4,74.29499999999999,2.322,2,8,0,0,6,2023-12-17
+00e3dae8-7b4c-411d-baec-d442e90ce83b,Green Bay Packers,Tampa Bay Buccaneers,jordan love,284,13,39,29,7.282,2,23,2,36,0,111.5,106.45800000000004,2.73,0,2,3,0,7,2023-12-17
+00e3dae8-7b4c-411d-baec-d442e90ce83b,Green Bay Packers,Tampa Bay Buccaneers,baker mayfield,381,18,28,22,13.607,5,28,4,52,0,158.3,79.372,2.835,0,3,1,0,3,2023-12-17
+2d05d91d-40c9-4e81-9aa2-5a8c3b3d8b6c,Carolina Panthers,Atlanta Falcons,bryce young,167,7,24,18,6.958,3,13,0,20,0,93.6,77.324,3.222,2,0,2,0,3,2023-12-17
+2d05d91d-40c9-4e81-9aa2-5a8c3b3d8b6c,Carolina Panthers,Atlanta Falcons,desmond ridder,152,8,20,12,7.6,0,0,1,56,1,79.6,55.291,2.765,2,1,1,0,2,2023-12-17
+3038430d-fa45-4405-b964-7c69bf5206fc,New Orleans Saints,New York Giants,taysom hill,0,0,1,0,0.0,0,0,0,0,0,39.6,3.706,3.706,0,0,0,0,0,2023-12-17
+3038430d-fa45-4405-b964-7c69bf5206fc,New Orleans Saints,New York Giants,derek carr,218,11,28,23,7.786,1,9,3,23,0,134.8,68.05100000000002,2.43,0,0,1,0,3,2023-12-17
+3038430d-fa45-4405-b964-7c69bf5206fc,New Orleans Saints,New York Giants,tyrod taylor,13,1,4,2,3.25,0,0,0,8,0,57.3,6.904,1.726,1,0,0,1,0,2023-12-17
+3038430d-fa45-4405-b964-7c69bf5206fc,New Orleans Saints,New York Giants,tommy devito,177,6,34,20,5.206,7,57,0,33,0,72.8,106.292,3.126,2,5,3,0,0,2023-12-17
+5a0811de-acf0-48ae-8983-b84e830589b8,New England Patriots,Kansas City Chiefs,bailey zappe,180,9,31,23,5.806,4,26,1,20,1,85.4,76.79199999999999,2.477,0,5,0,0,2,2023-12-17
+5a0811de-acf0-48ae-8983-b84e830589b8,New England Patriots,Kansas City Chiefs,patrick mahomes,305,14,37,27,8.243,3,26,2,48,2,92.7,97.015,2.622,3,2,3,0,9,2023-12-17
+5a0811de-acf0-48ae-8983-b84e830589b8,New England Patriots,Kansas City Chiefs,jerick mckinnon,4,1,1,1,4.0,0,0,1,4,0,122.9,0.51,0.51,0,0,0,0,1,2023-12-17
+c85d6cbc-539a-4824-b63a-e7e738cc42f2,Tennessee Titans,Houston Texans,will levis,199,8,26,17,7.654,7,61,0,37,1,72.4,82.58299999999998,3.176,1,6,0,0,0,2023-12-17
+c85d6cbc-539a-4824-b63a-e7e738cc42f2,Tennessee Titans,Houston Texans,case keenum,229,12,36,23,6.361,3,27,1,41,1,79.5,96.91800000000003,2.692,1,5,2,0,5,2023-12-17
+c85d6cbc-539a-4824-b63a-e7e738cc42f2,Tennessee Titans,Houston Texans,davis mills,0,0,0,0,0.0,1,10,0,0,0,0.0,3.766,0.0,0,0,0,0,0,2023-12-17
+f7d26865-09cf-497d-95ab-f8db2025c87a,Cleveland Browns,Chicago Bears,joe flacco,374,12,44,28,8.5,4,31,2,57,3,77.3,135.56699999999998,3.081,1,9,1,0,5,2023-12-17
+f7d26865-09cf-497d-95ab-f8db2025c87a,Cleveland Browns,Chicago Bears,dorian thompson-robinson,5,1,1,1,5.0,0,0,0,5,0,87.5,1.014,1.014,0,0,0,0,1,2023-12-17
+f7d26865-09cf-497d-95ab-f8db2025c87a,Cleveland Browns,Chicago Bears,justin fields,166,6,40,19,4.15,3,18,1,30,2,46.5,136.62900000000002,3.416,2,6,3,0,2,2023-12-17
+f8220a12-14c1-446d-bb37-a8e68112dfe9,Miami Dolphins,New York Jets,tua tagovailoa,224,9,24,21,9.333,3,15,1,60,0,119.4,55.577,2.316,0,2,0,0,2,2023-12-17
+f8220a12-14c1-446d-bb37-a8e68112dfe9,Miami Dolphins,New York Jets,mike white,4,0,2,2,2.0,0,0,0,3,0,79.2,2.739,1.37,0,0,0,0,0,2023-12-17
+f8220a12-14c1-446d-bb37-a8e68112dfe9,Miami Dolphins,New York Jets,trevor siemian,110,7,26,14,4.231,2,19,0,21,2,32.5,64.12100000000001,2.466,0,4,1,0,0,2023-12-17
+f8220a12-14c1-446d-bb37-a8e68112dfe9,Miami Dolphins,New York Jets,zach wilson,26,2,11,4,2.364,4,37,0,8,0,44.9,37.508,3.41,0,3,3,0,0,2023-12-17
+487cde3c-2485-4b70-a6b1-2c979b7ee396,Los Angeles Rams,Washington Commanders,matthew stafford,258,10,33,25,7.818,3,9,2,62,0,118.0,92.616,2.807,1,2,1,0,8,2023-12-17
+487cde3c-2485-4b70-a6b1-2c979b7ee396,Los Angeles Rams,Washington Commanders,sam howell,102,4,26,11,3.923,1,8,1,24,1,50.5,76.102,2.927,0,7,1,0,3,2023-12-17
+487cde3c-2485-4b70-a6b1-2c979b7ee396,Los Angeles Rams,Washington Commanders,jacoby brissett,124,5,10,8,12.4,0,0,2,48,0,157.9,27.725,2.773,0,1,1,0,4,2023-12-17
+7f4a2ce0-6d10-46a1-8cb5-09bae643e9d7,Arizona Cardinals,San Francisco 49ers,kyler murray,211,11,39,26,5.41,3,9,1,38,2,67.4,102.933,2.639,1,3,2,0,7,2023-12-17
+7f4a2ce0-6d10-46a1-8cb5-09bae643e9d7,Arizona Cardinals,San Francisco 49ers,sam darnold,20,1,3,2,6.667,0,0,0,17,0,85.4,6.202999999999999,2.068,0,1,0,0,0,2023-12-17
+7f4a2ce0-6d10-46a1-8cb5-09bae643e9d7,Arizona Cardinals,San Francisco 49ers,brock purdy,242,11,25,16,9.68,0,0,4,41,0,135.3,61.61099999999999,2.464,0,4,0,1,3,2023-12-17
+96053ae2-93e8-41d6-bdab-0d1c27eacbcb,Buffalo Bills,Dallas Cowboys,josh allen,94,5,15,7,6.267,1,9,1,24,0,89.3,41.352,2.757,3,1,2,0,3,2023-12-17
+96053ae2-93e8-41d6-bdab-0d1c27eacbcb,Buffalo Bills,Dallas Cowboys,dak prescott,134,6,34,21,3.941,3,28,0,16,1,57.7,91.388,2.688,2,5,2,0,1,2023-12-17
+adac5637-60ed-446c-ac7f-df47c122c46f,Jacksonville Jaguars,Baltimore Ravens,trevor lawrence,264,9,43,25,6.14,1,6,1,65,0,83.9,101.99799999999998,2.372,4,4,0,0,5,2023-12-18
+adac5637-60ed-446c-ac7f-df47c122c46f,Jacksonville Jaguars,Baltimore Ravens,lamar jackson,171,9,24,14,7.125,3,26,1,26,1,76.9,92.618,3.859,1,2,1,0,6,2023-12-18
+322508eb-5e6c-42d1-b91e-c08535bcf245,Seattle Seahawks,Philadelphia Eagles,drew lock,208,7,33,22,6.303,2,11,1,34,0,94.0,78.52200000000003,2.379,2,2,1,0,2,2023-12-19
+322508eb-5e6c-42d1-b91e-c08535bcf245,Seattle Seahawks,Philadelphia Eagles,jalen hurts,143,9,31,17,4.613,0,0,0,18,2,40.1,68.297,2.203,0,6,1,0,2,2023-12-19
+a5c8ad6c-fadd-4c57-89d3-c3166f20ff87,Los Angeles Rams,New Orleans Saints,matthew stafford,328,18,34,24,9.647,1,3,2,41,0,120.7,100.77300000000002,2.964,2,3,1,0,7,2023-12-22
+a5c8ad6c-fadd-4c57-89d3-c3166f20ff87,Los Angeles Rams,New Orleans Saints,derek carr,319,16,40,27,7.975,2,15,3,45,1,106.1,97.92799999999998,2.448,2,3,0,0,2,2023-12-22
+389ffb68-0764-4e36-81a3-fb23055c6c32,Pittsburgh Steelers,Cincinnati Bengals,mason rudolph,290,7,27,17,10.741,1,6,2,86,0,124.0,63.349,2.346,0,3,2,0,2,2023-12-23
+389ffb68-0764-4e36-81a3-fb23055c6c32,Pittsburgh Steelers,Cincinnati Bengals,jake browning,335,13,42,28,7.976,3,26,1,80,3,69.0,106.181,2.528,0,7,1,0,6,2023-12-23
+fd64785d-5a73-4a12-8ca7-6ffe8233cf2b,Los Angeles Chargers,Buffalo Bills,easton stick,215,10,33,23,6.515,5,40,0,23,0,87.3,94.141,2.853,1,3,0,0,3,2023-12-24
+fd64785d-5a73-4a12-8ca7-6ffe8233cf2b,Los Angeles Chargers,Buffalo Bills,josh allen,237,11,21,15,11.286,1,7,1,57,1,104.7,54.496,2.595,0,2,0,0,0,2023-12-24
+19a88df4-b884-496a-b581-078de5c163c7,Tennessee Titans,Seattle Seahawks,derrick henry,12,1,1,1,12.0,0,0,1,12,0,156.3,1.151,1.151,0,0,0,0,1,2023-12-24
+19a88df4-b884-496a-b581-078de5c163c7,Tennessee Titans,Seattle Seahawks,ryan tannehill,152,9,26,18,5.846,6,39,0,17,0,84.1,78.47200000000001,3.018,0,3,2,1,0,2023-12-24
+19a88df4-b884-496a-b581-078de5c163c7,Tennessee Titans,Seattle Seahawks,geno smith,227,14,36,25,6.306,3,12,2,26,0,104.7,89.508,2.486,1,2,0,0,6,2023-12-24
+42375c35-091a-4e0b-9b8d-fe07ef05cdcd,Atlanta Falcons,Indianapolis Colts,taylor heinicke,229,14,33,23,6.939,1,0,1,24,0,99.2,72.16799999999999,2.187,2,4,1,1,2,2023-12-24
+42375c35-091a-4e0b-9b8d-fe07ef05cdcd,Atlanta Falcons,Indianapolis Colts,gardner minshew,201,14,37,20,5.432,6,31,0,18,1,58.5,110.94999999999996,2.999,4,3,2,0,1,2023-12-24
+6d4d690d-a763-40c3-91e9-48d298018c9a,Houston Texans,Cleveland Browns,davis mills,149,11,32,15,4.656,0,0,2,19,0,81.4,75.13900000000001,2.348,4,5,1,0,6,2023-12-24
+6d4d690d-a763-40c3-91e9-48d298018c9a,Houston Texans,Cleveland Browns,case keenum,62,2,17,11,3.647,3,33,0,8,2,31.6,50.61200000000001,2.977,1,3,0,0,0,2023-12-24
+6d4d690d-a763-40c3-91e9-48d298018c9a,Houston Texans,Cleveland Browns,dorian thompson-robinson,6,1,2,1,3.0,1,10,0,6,0,56.3,5.939,2.97,0,0,0,0,0,2023-12-24
+6d4d690d-a763-40c3-91e9-48d298018c9a,Houston Texans,Cleveland Browns,joe flacco,368,18,42,27,8.762,0,0,3,75,2,96.1,116.402,2.771,3,7,1,0,10,2023-12-24
+945e166e-44da-4fb4-b3b3-575b0ca24e7c,Carolina Panthers,Green Bay Packers,bryce young,312,14,36,23,8.667,2,14,2,30,0,110.0,90.36300000000004,2.51,0,2,2,1,2,2023-12-24
+945e166e-44da-4fb4-b3b3-575b0ca24e7c,Carolina Panthers,Green Bay Packers,jordan love,219,12,28,17,7.821,1,12,2,36,0,109.1,65.57500000000002,2.342,2,1,2,0,2,2023-12-24
+aed5b2ec-ff34-419b-b159-fabab8a6cc73,New York Jets,Washington Commanders,trevor siemian,217,12,49,27,4.429,0,0,1,16,1,64.8,106.58700000000002,2.175,0,8,4,0,11,2023-12-24
+aed5b2ec-ff34-419b-b159-fabab8a6cc73,New York Jets,Washington Commanders,jacoby brissett,100,5,13,10,7.692,0,0,1,29,0,123.9,29.726,2.287,1,1,0,0,4,2023-12-24
+aed5b2ec-ff34-419b-b159-fabab8a6cc73,New York Jets,Washington Commanders,sam howell,56,2,22,6,2.545,1,13,0,16,2,1.7,61.213,2.782,3,6,3,0,0,2023-12-24
+c2dcdbbd-3de4-4b79-9b1c-401a21f7063e,Minnesota Vikings,Detroit Lions,nick mullens,411,15,36,22,11.417,4,38,2,47,4,79.5,99.894,2.775,0,4,0,1,5,2023-12-24
+c2dcdbbd-3de4-4b79-9b1c-401a21f7063e,Minnesota Vikings,Detroit Lions,jared goff,257,16,40,30,6.425,1,11,1,25,0,99.7,94.791,2.37,3,3,1,0,8,2023-12-24
+bf34bf3a-0af6-498f-b11e-10e789b18826,Tampa Bay Buccaneers,Jacksonville Jaguars,baker mayfield,283,17,35,26,8.086,2,18,2,25,0,116.7,83.031,2.372,2,5,0,0,4,2023-12-24
+bf34bf3a-0af6-498f-b11e-10e789b18826,Tampa Bay Buccaneers,Jacksonville Jaguars,cj beathard,94,6,15,11,6.267,1,9,1,15,0,111.5,33.766,2.251,1,2,1,0,4,2023-12-24
+bf34bf3a-0af6-498f-b11e-10e789b18826,Tampa Bay Buccaneers,Jacksonville Jaguars,trevor lawrence,211,11,29,17,7.276,3,28,1,25,2,64.0,68.78200000000001,2.372,1,1,0,0,1,2023-12-24
+2aaece03-c4c4-4c07-9835-3c523cec2925,Chicago Bears,Arizona Cardinals,justin fields,170,8,27,15,6.296,1,0,1,53,1,71.5,81.934,3.035,1,6,2,0,4,2023-12-24
+2aaece03-c4c4-4c07-9835-3c523cec2925,Chicago Bears,Arizona Cardinals,kyler murray,230,10,38,24,6.053,2,17,2,38,0,97.5,100.561,2.646,1,7,0,1,1,2023-12-24
+36659169-5373-4de0-80ca-06ac24c283a6,Miami Dolphins,Dallas Cowboys,tua tagovailoa,293,16,37,24,7.919,1,9,1,50,0,98.1,70.061,1.894,1,0,1,0,7,2023-12-24
+36659169-5373-4de0-80ca-06ac24c283a6,Miami Dolphins,Dallas Cowboys,dak prescott,253,9,32,20,7.906,4,11,2,49,0,107.9,86.829,2.713,2,2,3,0,5,2023-12-24
+7ad5a64d-1613-4dfe-bf15-59868304f1de,Denver Broncos,New England Patriots,russell wilson,238,10,37,25,6.432,5,45,2,47,0,103.2,121.072,3.272,2,4,0,1,4,2023-12-25
+7ad5a64d-1613-4dfe-bf15-59868304f1de,Denver Broncos,New England Patriots,bailey zappe,256,11,33,25,7.758,2,26,2,41,0,117.7,80.14899999999999,2.429,2,1,1,1,3,2023-12-25
+ced4e00a-4097-4394-8541-091bd7e86498,Kansas City Chiefs,Las Vegas Raiders,tommy townsend,11,1,1,1,11.0,0,0,0,11,0,112.5,1.95,1.95,0,0,0,0,0,2023-12-25
+ced4e00a-4097-4394-8541-091bd7e86498,Kansas City Chiefs,Las Vegas Raiders,patrick mahomes,235,10,44,27,5.341,4,23,1,45,1,73.6,136.393,3.1,2,4,4,0,7,2023-12-25
+ced4e00a-4097-4394-8541-091bd7e86498,Kansas City Chiefs,Las Vegas Raiders,aidan o'connell,62,3,21,9,2.952,2,14,0,21,0,50.3,59.187,2.818,4,2,2,0,5,2023-12-25
+046cfa38-25a3-4cd0-aab2-5d3808194cfb,Philadelphia Eagles,New York Giants,jalen hurts,301,16,38,24,7.921,1,6,1,36,1,85.5,83.06699999999998,2.186,2,3,2,0,4,2023-12-25
+046cfa38-25a3-4cd0-aab2-5d3808194cfb,Philadelphia Eagles,New York Giants,tommy devito,55,2,16,9,3.438,1,2,0,14,0,63.3,45.397,2.837,1,1,3,0,0,2023-12-25
+046cfa38-25a3-4cd0-aab2-5d3808194cfb,Philadelphia Eagles,New York Giants,tyrod taylor,133,5,16,7,8.313,0,0,1,69,1,68.0,37.21999999999999,2.326,1,0,0,2,0,2023-12-25
+0fc1e440-e670-4749-9ece-5cdc554fb42a,San Francisco 49ers,Baltimore Ravens,brock purdy,255,10,32,18,7.969,2,8,0,58,4,42.6,106.644,3.333,2,6,1,0,1,2023-12-26
+0fc1e440-e670-4749-9ece-5cdc554fb42a,San Francisco 49ers,Baltimore Ravens,sam darnold,81,4,14,8,5.786,2,20,1,24,1,67.9,44.958,3.211,0,0,0,0,6,2023-12-26
+0fc1e440-e670-4749-9ece-5cdc554fb42a,San Francisco 49ers,Baltimore Ravens,lamar jackson,252,14,35,23,7.2,2,11,2,39,0,105.9,112.20900000000005,3.206,2,3,1,0,8,2023-12-26
+9870e58e-bd39-4d57-a37c-08cfb9dcabbd,Cleveland Browns,New York Jets,joe flacco,309,9,29,19,10.655,1,8,3,50,1,121.2,79.40299999999999,2.738,2,3,0,0,7,2023-12-29
+9870e58e-bd39-4d57-a37c-08cfb9dcabbd,Cleveland Browns,New York Jets,trevor siemian,261,10,45,32,5.8,2,8,1,24,1,83.7,91.06699999999998,2.024,1,7,1,0,2,2023-12-29
+f6f2d1c1-bda0-4ecc-b374-f824118cab58,Dallas Cowboys,Detroit Lions,dak prescott,345,12,38,26,9.079,3,22,2,92,1,103.5,92.646,2.438,2,3,0,0,2,2023-12-31
+f6f2d1c1-bda0-4ecc-b374-f824118cab58,Dallas Cowboys,Detroit Lions,jalen reeves-maybin,31,1,1,1,31.0,0,0,0,31,0,118.8,1.716,1.716,0,0,0,0,0,2023-12-31
+f6f2d1c1-bda0-4ecc-b374-f824118cab58,Dallas Cowboys,Detroit Lions,jared goff,271,13,34,19,7.971,1,7,1,63,2,67.2,69.50900000000001,2.044,1,5,0,3,6,2023-12-31
+24d215ce-b2b6-440c-88ef-30a6049bf47e,Indianapolis Colts,Las Vegas Raiders,gardner minshew,224,7,23,15,9.739,1,9,1,58,0,111.5,56.695,2.465,2,1,3,0,0,2023-12-31
+24d215ce-b2b6-440c-88ef-30a6049bf47e,Indianapolis Colts,Las Vegas Raiders,aidan o'connell,299,19,47,30,6.362,2,13,2,24,0,96.0,110.729,2.356,1,6,1,0,7,2023-12-31
+2cf8bd20-e45b-480b-93da-4d9c1d4423e4,Chicago Bears,Atlanta Falcons,justin fields,268,12,32,20,8.375,3,28,1,32,0,99.5,103.602,3.238,1,2,2,0,6,2023-12-31
+2cf8bd20-e45b-480b-93da-4d9c1d4423e4,Chicago Bears,Atlanta Falcons,desmond ridder,17,1,4,3,4.25,0,0,0,6,1,42.7,7.437,1.859,0,1,0,0,0,2023-12-31
+2cf8bd20-e45b-480b-93da-4d9c1d4423e4,Chicago Bears,Atlanta Falcons,taylor heinicke,163,4,29,10,5.621,2,7,1,75,3,26.1,89.396,3.083,2,3,1,0,2,2023-12-31
+374e0853-0c0e-4fbe-be9d-46e2b02763cf,Jacksonville Jaguars,Carolina Panthers,cj beathard,178,9,24,17,7.417,3,16,0,48,0,92.0,62.57900000000001,2.607,0,2,2,0,6,2023-12-31
+374e0853-0c0e-4fbe-be9d-46e2b02763cf,Jacksonville Jaguars,Carolina Panthers,bryce young,112,5,32,19,3.5,6,45,0,18,1,53.1,93.084,2.909,2,3,1,0,0,2023-12-31
+58c05e41-a737-40a5-ad3c-d320744588fe,Tampa Bay Buccaneers,New Orleans Saints,baker mayfield,309,10,33,22,9.364,2,17,2,54,2,91.6,87.26800000000003,2.644,2,5,0,0,0,2023-12-31
+58c05e41-a737-40a5-ad3c-d320744588fe,Tampa Bay Buccaneers,New Orleans Saints,taysom hill,11,1,2,1,5.5,0,0,0,11,0,66.7,3.472,1.736,0,1,0,0,0,2023-12-31
+58c05e41-a737-40a5-ad3c-d320744588fe,Tampa Bay Buccaneers,New Orleans Saints,derek carr,197,12,32,24,6.156,1,6,2,32,0,111.1,71.66100000000002,2.239,2,2,0,0,3,2023-12-31
+5b2a209d-3d6a-42c7-8dd3-7a49a59c05b1,Philadelphia Eagles,Arizona Cardinals,jalen hurts,167,10,23,18,7.261,0,0,3,23,1,118.4,60.87500000000001,2.647,1,1,0,0,2,2023-12-31
+5b2a209d-3d6a-42c7-8dd3-7a49a59c05b1,Philadelphia Eagles,Arizona Cardinals,kenneth gainwell,17,1,1,1,17.0,0,0,0,17,0,118.8,1.702,1.702,0,0,0,0,0,2023-12-31
+5b2a209d-3d6a-42c7-8dd3-7a49a59c05b1,Philadelphia Eagles,Arizona Cardinals,kyler murray,232,16,31,25,7.484,1,4,3,36,1,116.7,66.663,2.15,1,2,0,0,6,2023-12-31
+6a9c26d1-97bb-4087-9b96-8206fcd0d68f,Washington Commanders,San Francisco 49ers,sam howell,169,6,28,17,6.036,1,6,1,42,2,60.0,87.19899999999998,3.114,1,1,2,0,4,2023-12-31
+6a9c26d1-97bb-4087-9b96-8206fcd0d68f,Washington Commanders,San Francisco 49ers,sam darnold,0,0,0,0,0.0,1,6,0,0,0,0.0,2.708,0.0,0,0,0,0,0,2023-12-31
+6a9c26d1-97bb-4087-9b96-8206fcd0d68f,Washington Commanders,San Francisco 49ers,brock purdy,230,14,28,22,8.214,0,0,2,38,0,124.7,88.838,3.173,0,3,1,0,11,2023-12-31
+6cbe90f9-4b86-4635-927b-b04f4074d7ec,New York Giants,Los Angeles Rams,tyrod taylor,319,8,41,27,7.78,6,35,1,80,1,87.3,115.988,2.829,5,4,1,1,2,2023-12-31
+6cbe90f9-4b86-4635-927b-b04f4074d7ec,New York Giants,Los Angeles Rams,matthew stafford,317,14,34,24,9.324,4,31,1,80,2,85.0,80.15500000000002,2.358,3,1,0,0,3,2023-12-31
+8c86168a-dd76-4b4d-b719-1e584922248a,Buffalo Bills,New England Patriots,josh allen,169,8,30,15,5.633,1,15,0,51,1,53.3,69.75,2.325,3,3,2,0,4,2023-12-31
+8c86168a-dd76-4b4d-b719-1e584922248a,Buffalo Bills,New England Patriots,bailey zappe,209,8,26,16,8.038,3,18,0,48,3,47.3,69.675,2.68,0,3,2,0,0,2023-12-31
+8d40574a-5a6c-4520-a343-9e201e70d2a7,Houston Texans,Tennessee Titans,c.j. stroud,213,12,32,24,6.656,1,12,1,21,0,102.7,74.17599999999999,2.318,1,1,1,0,6,2023-12-31
+8d40574a-5a6c-4520-a343-9e201e70d2a7,Houston Texans,Tennessee Titans,will levis,16,1,6,2,2.667,1,10,0,12,0,42.4,16.467000000000002,2.745,1,2,0,0,0,2023-12-31
+8d40574a-5a6c-4520-a343-9e201e70d2a7,Houston Texans,Tennessee Titans,ryan tannehill,168,6,20,16,8.4,5,40,0,32,0,101.7,54.003,2.7,0,1,1,0,5,2023-12-31
+e6a8076b-558c-47b1-9e53-f005894bf9af,Baltimore Ravens,Miami Dolphins,lamar jackson,321,14,21,18,15.286,1,9,5,75,0,158.3,56.759,2.703,2,1,0,0,2,2023-12-31
+e6a8076b-558c-47b1-9e53-f005894bf9af,Baltimore Ravens,Miami Dolphins,tyler huntley,19,1,1,1,19.0,0,0,1,19,0,158.3,2.036,2.036,0,0,0,0,1,2023-12-31
+e6a8076b-558c-47b1-9e53-f005894bf9af,Baltimore Ravens,Miami Dolphins,tua tagovailoa,237,13,38,22,6.237,3,16,2,25,2,71.9,79.55700000000002,2.094,3,3,2,0,5,2023-12-31
+6f495571-57f9-4125-9b46-7421a38eccd3,Seattle Seahawks,Pittsburgh Steelers,geno smith,290,13,33,23,8.788,1,9,1,33,0,106.9,80.75199999999998,2.447,4,3,0,0,5,2023-12-31
+6f495571-57f9-4125-9b46-7421a38eccd3,Seattle Seahawks,Pittsburgh Steelers,mason rudolph,274,11,24,18,11.417,1,8,0,42,0,112.2,58.49899999999999,2.437,0,3,3,0,5,2023-12-31
+0f0e40a3-a40e-4630-9956-739cd9355569,Kansas City Chiefs,Cincinnati Bengals,patrick mahomes,245,10,29,21,8.448,2,4,1,67,0,109.1,76.91799999999999,2.652,1,0,1,0,4,2023-12-31
+0f0e40a3-a40e-4630-9956-739cd9355569,Kansas City Chiefs,Cincinnati Bengals,jake browning,197,11,33,19,5.97,6,38,1,24,0,85.0,99.769,3.023,1,4,2,0,4,2023-12-31
+b06fe024-b433-42ed-8b68-69a338edc5ed,Denver Broncos,Los Angeles Chargers,jarrett stidham,224,7,32,20,7.0,2,12,1,54,0,93.8,80.662,2.521,0,6,2,0,4,2023-12-31
+b06fe024-b433-42ed-8b68-69a338edc5ed,Denver Broncos,Los Angeles Chargers,easton stick,220,10,38,24,5.789,1,5,0,27,0,78.8,86.94900000000003,2.288,1,2,0,1,2,2023-12-31
+5592c08c-4cb1-49e9-90b0-9b04ace1fbdf,Minnesota Vikings,Green Bay Packers,nick mullens,113,7,22,13,5.136,1,8,1,21,0,87.9,61.562000000000005,2.798,1,2,0,0,8,2024-01-01
+5592c08c-4cb1-49e9-90b0-9b04ace1fbdf,Minnesota Vikings,Green Bay Packers,jaren hall,67,3,10,5,6.7,3,28,0,20,1,32.1,37.44400000000001,3.744,0,1,1,0,0,2024-01-01
+5592c08c-4cb1-49e9-90b0-9b04ace1fbdf,Minnesota Vikings,Green Bay Packers,sean clifford,37,1,1,1,37.0,0,0,0,37,0,118.8,2.377,2.377,0,0,0,0,0,2024-01-01
+5592c08c-4cb1-49e9-90b0-9b04ace1fbdf,Minnesota Vikings,Green Bay Packers,jordan love,256,16,33,24,7.758,0,0,3,33,0,125.3,73.614,2.231,3,1,0,0,5,2024-01-01
+dc3e4ea6-1f65-4d2f-877b-acc35bda747d,Baltimore Ravens,Pittsburgh Steelers,tyler huntley,146,9,28,15,5.214,4,28,1,27,0,80.4,96.354,3.441,4,2,2,0,1,2024-01-06
+dc3e4ea6-1f65-4d2f-877b-acc35bda747d,Baltimore Ravens,Pittsburgh Steelers,mason rudolph,152,8,20,18,7.6,3,18,1,71,0,115.0,52.883,2.644,0,1,0,0,2,2024-01-06
+756d6c29-6376-4953-868c-1218129489c8,Indianapolis Colts,Houston Texans,gardner minshew,141,6,24,13,5.875,1,8,0,28,0,71.7,54.906,2.288,1,4,1,0,2,2024-01-07
+756d6c29-6376-4953-868c-1218129489c8,Indianapolis Colts,Houston Texans,c.j. stroud,264,10,26,20,10.154,2,18,2,75,0,134.1,63.650000000000006,2.448,0,1,0,0,1,2024-01-07
+07905409-d2cd-420f-885f-20d0c5de4476,New Orleans Saints,Atlanta Falcons,derek carr,264,13,28,22,9.429,2,17,4,39,0,145.5,78.15299999999999,2.791,0,3,3,0,6,2024-01-07
+07905409-d2cd-420f-885f-20d0c5de4476,New Orleans Saints,Atlanta Falcons,taysom hill,0,0,0,0,0.0,1,1,0,0,0,0.0,2.692,0.0,0,0,0,0,0,2024-01-07
+07905409-d2cd-420f-885f-20d0c5de4476,New Orleans Saints,Atlanta Falcons,desmond ridder,291,8,30,22,9.7,0,0,2,71,1,111.9,77.88,2.596,1,1,0,0,6,2024-01-07
+07905409-d2cd-420f-885f-20d0c5de4476,New Orleans Saints,Atlanta Falcons,logan woodside,27,3,4,3,6.75,1,7,0,12,1,53.1,12.245,3.061,0,1,0,0,0,2024-01-07
+091ce60b-06f3-4202-9286-9664a47d08be,Tennessee Titans,Jacksonville Jaguars,ryan tannehill,168,10,26,17,6.462,2,16,2,28,1,93.1,65.128,2.505,2,2,1,0,1,2024-01-07
+091ce60b-06f3-4202-9286-9664a47d08be,Tennessee Titans,Jacksonville Jaguars,deandre hopkins,0,0,1,0,0.0,0,0,0,0,0,39.6,3.303,3.303,0,0,0,0,0,2024-01-07
+091ce60b-06f3-4202-9286-9664a47d08be,Tennessee Titans,Jacksonville Jaguars,trevor lawrence,280,12,43,29,6.512,0,0,2,59,2,81.5,98.903,2.3,1,3,2,0,6,2024-01-07
+0cb9edf9-d268-4f1f-be29-10241ab955c6,Detroit Lions,Minnesota Vikings,jared goff,320,13,32,23,10.0,1,9,2,70,0,124.5,75.39699999999999,2.356,0,3,1,0,4,2024-01-07
+0cb9edf9-d268-4f1f-be29-10241ab955c6,Detroit Lions,Minnesota Vikings,nick mullens,396,15,44,30,9.0,4,37,2,42,2,92.6,109.44999999999996,2.487,0,7,1,0,0,2024-01-07
+72f3d705-9973-4eab-9a5e-4b90201b6004,New England Patriots,New York Jets,bailey zappe,88,3,30,12,2.933,7,57,0,33,2,20.1,91.882,3.063,0,9,0,0,2,2024-01-07
+72f3d705-9973-4eab-9a5e-4b90201b6004,New England Patriots,New York Jets,trevor siemian,70,3,20,8,3.5,1,1,0,30,0,50.0,49.214,2.461,1,3,2,0,4,2024-01-07
+796e79bc-c26f-4a23-b357-17a366cf5e6e,Carolina Panthers,Tampa Bay Buccaneers,bryce young,94,2,18,11,5.222,3,26,0,42,0,74.8,49.215,2.734,4,0,0,0,0,2024-01-07
+796e79bc-c26f-4a23-b357-17a366cf5e6e,Carolina Panthers,Tampa Bay Buccaneers,baker mayfield,137,6,32,20,4.281,3,22,0,20,0,72.0,83.164,2.599,0,6,1,0,1,2024-01-07
+e26f8d1d-cc69-4d5e-bee1-142649486e66,Cincinnati Bengals,Cleveland Browns,jake browning,156,10,24,18,6.5,2,22,3,35,1,113.9,56.792,2.366,2,1,0,0,3,2024-01-07
+e26f8d1d-cc69-4d5e-bee1-142649486e66,Cincinnati Bengals,Cleveland Browns,aj mccarron,20,0,4,3,5.0,1,9,0,10,0,85.4,11.157,2.789,0,0,0,0,0,2024-01-07
+e26f8d1d-cc69-4d5e-bee1-142649486e66,Cincinnati Bengals,Cleveland Browns,jeff driskel,166,8,26,13,6.385,3,26,2,31,2,63.9,68.84800000000001,2.648,4,4,1,0,0,2024-01-07
+17da17ed-d2af-48ce-98df-fd97e851a677,Arizona Cardinals,Seattle Seahawks,kyler murray,262,11,30,22,8.733,1,2,1,34,0,110.7,80.11,2.67,2,2,1,0,5,2024-01-07
+17da17ed-d2af-48ce-98df-fd97e851a677,Arizona Cardinals,Seattle Seahawks,geno smith,189,8,28,16,6.75,0,0,2,37,0,101.6,66.153,2.363,4,5,2,0,3,2024-01-07
+2001a9fe-f673-49c4-a37f-1c7f9dc8f1ee,Green Bay Packers,Chicago Bears,jordan love,316,14,32,27,9.875,1,8,2,59,0,128.6,83.362,2.605,0,3,0,0,6,2024-01-07
+2001a9fe-f673-49c4-a37f-1c7f9dc8f1ee,Green Bay Packers,Chicago Bears,justin fields,148,8,16,11,9.25,5,31,0,33,0,97.9,60.121,3.758,0,3,0,0,3,2024-01-07
+278b091e-61fb-4bb1-a445-4e267a3ecc3c,New York Giants,Philadelphia Eagles,tyrod taylor,297,13,32,23,9.281,1,5,1,46,1,98.0,75.87799999999999,2.371,2,2,1,0,4,2024-01-07
+278b091e-61fb-4bb1-a445-4e267a3ecc3c,New York Giants,Philadelphia Eagles,tommy devito,14,0,2,2,7.0,1,0,0,9,0,95.8,10.361,5.181,0,0,0,0,0,2024-01-07
+278b091e-61fb-4bb1-a445-4e267a3ecc3c,New York Giants,Philadelphia Eagles,jalen hurts,55,0,16,7,3.438,2,26,0,12,1,26.8,44.252,2.766,1,2,3,0,0,2024-01-07
+278b091e-61fb-4bb1-a445-4e267a3ecc3c,New York Giants,Philadelphia Eagles,marcus mariota,148,9,20,13,7.4,3,11,1,22,1,82.9,53.417,2.671,0,5,0,0,3,2024-01-07
+7885d41f-ea3d-4b7d-898d-11279e6f99ec,San Francisco 49ers,Los Angeles Rams,sam darnold,189,10,26,16,7.269,3,14,1,48,0,96.5,90.606,3.485,0,3,0,1,3,2024-01-07
+7885d41f-ea3d-4b7d-898d-11279e6f99ec,San Francisco 49ers,Los Angeles Rams,carson wentz,163,11,24,17,6.792,2,14,2,29,1,99.8,61.98,2.583,1,0,0,0,3,2024-01-07
+7d1dfaee-8c3a-46f3-abbf-f3c8c3967c0d,Las Vegas Raiders,Denver Broncos,aidan o'connell,244,12,31,20,7.871,2,14,2,47,0,110.1,86.692,2.797,1,2,4,1,7,2024-01-07
+7d1dfaee-8c3a-46f3-abbf-f3c8c3967c0d,Las Vegas Raiders,Denver Broncos,jimmy garoppolo,0,0,1,0,0.0,1,0,0,0,0,39.6,6.143,6.143,0,0,0,0,0,2024-01-07
+7d1dfaee-8c3a-46f3-abbf-f3c8c3967c0d,Las Vegas Raiders,Denver Broncos,jarrett stidham,272,12,34,20,8.0,5,34,1,47,1,82.0,108.33099999999996,3.186,2,2,2,0,2,2024-01-07
+b1dd2898-3bcc-4f34-a3d9-b09225cf0f82,Los Angeles Chargers,Kansas City Chiefs,easton stick,258,12,47,28,5.489,3,23,0,25,0,74.6,110.45399999999998,2.35,6,6,2,0,3,2024-01-07
+b1dd2898-3bcc-4f34-a3d9-b09225cf0f82,Los Angeles Chargers,Kansas City Chiefs,blaine gabbert,154,6,30,15,5.133,1,9,0,37,1,51.3,57.81100000000001,1.927,4,5,1,0,1,2024-01-07
+bc2599d4-602b-4040-a072-eeeebc793fac,Washington Commanders,Dallas Cowboys,dyami brown,4,0,1,1,4.0,0,0,0,4,0,83.3,2.53,2.53,0,0,0,0,1,2024-01-07
+bc2599d4-602b-4040-a072-eeeebc793fac,Washington Commanders,Dallas Cowboys,sam howell,153,9,27,19,5.667,4,27,1,19,2,65.8,65.41999999999999,2.423,0,5,0,0,2,2024-01-07
+bc2599d4-602b-4040-a072-eeeebc793fac,Washington Commanders,Dallas Cowboys,dak prescott,279,21,36,31,7.75,0,0,4,32,1,124.4,81.12899999999999,2.254,2,1,0,0,12,2024-01-07
+bc2599d4-602b-4040-a072-eeeebc793fac,Washington Commanders,Dallas Cowboys,cooper rush,30,2,4,3,7.5,0,0,0,24,0,95.8,8.469,2.117,0,0,0,0,0,2024-01-07
+b5c5afbb-0eff-4766-b3b6-6a948e27b347,Miami Dolphins,Buffalo Bills,tua tagovailoa,173,9,27,17,6.407,0,0,1,24,2,62.7,53.019000000000005,1.964,1,4,0,0,2,2024-01-07
+b5c5afbb-0eff-4766-b3b6-6a948e27b347,Miami Dolphins,Buffalo Bills,de'von achane,0,0,0,0,0.0,1,6,0,0,0,0.0,1.464,0.0,0,0,0,0,0,2024-01-07
+b5c5afbb-0eff-4766-b3b6-6a948e27b347,Miami Dolphins,Buffalo Bills,josh allen,359,14,38,30,9.447,3,14,2,46,2,101.6,87.27899999999997,2.297,1,3,1,0,5,2024-01-07
+c2e79f3f-2a4d-437d-a48a-8d1b18f443d2,Houston Texans,Cleveland Browns,davis mills,6,0,1,1,6.0,0,0,0,6,0,91.7,1.379,1.379,0,0,0,0,0,2024-01-13
+c2e79f3f-2a4d-437d-a48a-8d1b18f443d2,Houston Texans,Cleveland Browns,c.j. stroud,274,10,21,16,13.048,0,0,3,76,0,157.2,51.37299999999999,2.446,1,3,0,0,3,2024-01-13
+c2e79f3f-2a4d-437d-a48a-8d1b18f443d2,Houston Texans,Cleveland Browns,joe flacco,307,14,46,34,6.674,4,39,1,47,2,80.6,127.43699999999995,2.77,2,4,2,0,3,2024-01-13
+cc23f026-32ea-4c2a-8f6d-c873a6844178,Kansas City Chiefs,Miami Dolphins,patrick mahomes,262,14,41,23,6.39,0,0,1,39,0,83.6,90.54200000000002,2.208,4,3,7,0,11,2024-01-14
+cc23f026-32ea-4c2a-8f6d-c873a6844178,Kansas City Chiefs,Miami Dolphins,tua tagovailoa,199,8,39,20,5.103,2,11,1,53,1,63.9,82.996,2.128,3,5,1,0,0,2024-01-14
+8f6c8cf1-a5bf-4726-8bfa-c804451c3c05,Dallas Cowboys,Green Bay Packers,dak prescott,403,25,60,41,6.717,4,16,3,47,2,89.8,160.92500000000004,2.682,2,6,1,0,12,2024-01-14
+8f6c8cf1-a5bf-4726-8bfa-c804451c3c05,Dallas Cowboys,Green Bay Packers,jordan love,272,11,21,16,12.952,0,0,3,46,0,157.2,53.476,2.546,1,1,0,0,6,2024-01-14
+dae4eee1-0371-40c7-b0dd-cafb0c006ebd,Detroit Lions,Los Angeles Rams,jared goff,277,16,27,22,10.259,3,22,1,33,0,121.8,67.277,2.492,1,0,1,0,3,2024-01-15
+dae4eee1-0371-40c7-b0dd-cafb0c006ebd,Detroit Lions,Los Angeles Rams,matthew stafford,367,15,36,25,10.194,2,10,2,50,0,120.9,87.95900000000002,2.443,0,3,2,0,7,2024-01-15
+00f7866b-087f-4073-bccc-28439136eb11,Buffalo Bills,Pittsburgh Steelers,josh allen,203,11,30,21,6.767,2,14,3,34,0,121.9,70.001,2.333,3,2,0,0,2,2024-01-15
+00f7866b-087f-4073-bccc-28439136eb11,Buffalo Bills,Pittsburgh Steelers,mason rudolph,229,14,39,22,5.872,1,11,2,33,1,80.0,87.30700000000002,2.239,0,8,0,1,6,2024-01-15
+1b3ab572-3d65-4dd8-8906-480f1ed79f9c,Tampa Bay Buccaneers,Philadelphia Eagles,baker mayfield,337,13,36,22,9.361,4,30,3,56,0,119.8,96.442,2.679,8,2,1,0,2,2024-01-16
+1b3ab572-3d65-4dd8-8906-480f1ed79f9c,Tampa Bay Buccaneers,Philadelphia Eagles,jalen hurts,250,9,35,25,7.143,3,16,1,55,0,100.9,84.811,2.423,2,4,3,0,2,2024-01-16
+8997bece-5938-4f66-9254-8c72c9d4f013,Baltimore Ravens,Houston Texans,lamar jackson,152,10,22,16,6.909,3,29,2,21,0,121.8,69.335,3.152,1,1,1,0,3,2024-01-20
+8997bece-5938-4f66-9254-8c72c9d4f013,Baltimore Ravens,Houston Texans,c.j. stroud,175,8,33,19,5.303,0,0,0,29,0,72.2,76.573,2.32,1,4,2,0,0,2024-01-20
+b1a5bf2e-0e15-4a95-9417-8e3aa577fa0e,San Francisco 49ers,Green Bay Packers,brock purdy,252,12,39,23,6.462,1,7,1,32,0,86.7,101.482,2.602,1,2,1,1,1,2024-01-21
+b1a5bf2e-0e15-4a95-9417-8e3aa577fa0e,San Francisco 49ers,Green Bay Packers,jordan love,194,10,34,21,5.706,0,0,2,38,2,72.4,82.90300000000002,2.438,1,4,1,0,6,2024-01-21
+280440bb-d95e-4b2c-836d-22d592130f57,Detroit Lions,Tampa Bay Buccaneers,jared goff,287,18,43,30,6.674,2,10,2,29,0,103.5,109.07899999999997,2.537,1,4,1,0,9,2024-01-21
+280440bb-d95e-4b2c-836d-22d592130f57,Detroit Lions,Tampa Bay Buccaneers,baker mayfield,349,18,41,26,8.512,4,30,3,29,2,94.5,100.91099999999996,2.461,4,4,2,0,6,2024-01-21
+056fb0d6-fe0d-4d09-8713-8d38afe37c0b,Buffalo Bills,Kansas City Chiefs,josh allen,186,12,39,26,4.769,0,0,1,15,0,86.1,92.79999999999998,2.379,4,3,2,0,6,2024-01-21
+056fb0d6-fe0d-4d09-8713-8d38afe37c0b,Buffalo Bills,Kansas City Chiefs,patrick mahomes,215,12,23,17,9.348,0,0,2,32,0,131.6,52.18400000000001,2.269,0,1,2,0,7,2024-01-21
+325acdd4-fcb1-4ae9-95cf-3d69a26f1671,Baltimore Ravens,Kansas City Chiefs,lamar jackson,272,11,37,20,7.351,4,17,1,54,1,75.5,111.669,3.018,2,3,3,0,2,2024-01-28
+325acdd4-fcb1-4ae9-95cf-3d69a26f1671,Baltimore Ravens,Kansas City Chiefs,patrick mahomes,241,12,39,30,6.179,2,11,1,32,0,100.5,86.034,2.206,1,1,3,0,2,2024-01-28
+8e3783e5-2e08-4f19-ba07-2af27e5aee1e,San Francisco 49ers,Detroit Lions,brock purdy,267,12,31,20,8.613,2,9,1,51,1,89.0,77.714,2.507,0,3,1,0,2,2024-01-28
+8e3783e5-2e08-4f19-ba07-2af27e5aee1e,San Francisco 49ers,Detroit Lions,jared goff,273,16,41,25,6.659,2,13,1,25,0,88.8,105.76699999999995,2.58,3,2,1,0,9,2024-01-28
+902a4753-72f9-4868-9d9b-193a5c41ea4d,Kansas City Chiefs,San Francisco 49ers,patrick mahomes,333,15,46,34,7.239,3,8,2,52,1,99.3,126.622,2.753,1,1,4,0,6,2024-02-11
+902a4753-72f9-4868-9d9b-193a5c41ea4d,Kansas City Chiefs,San Francisco 49ers,jauan jennings,21,1,1,1,21.0,0,0,1,21,0,158.3,0.845,0.845,0,0,0,0,0,2024-02-11
+902a4753-72f9-4868-9d9b-193a5c41ea4d,Kansas City Chiefs,San Francisco 49ers,brock purdy,255,14,38,23,6.711,1,4,1,24,0,89.3,94.98099999999998,2.499,2,6,2,0,3,2024-02-11
