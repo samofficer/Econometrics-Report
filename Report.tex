@@ -1,7 +1,7 @@
-% !TeX program = pdflatex
 \documentclass[11pt]{article}
 \usepackage{lmodern}
 \usepackage{booktabs}
+\setlength{\tabcolsep}{4pt}
 \usepackage{amsmath}
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
@@ -24,21 +24,21 @@
 
 \subsection{Overall Summary by Bookmaker}
 
-\input{../MetricOdds/overall_overround_by_bookmaker.tex}
+\input{latex_tables/overall_overround_by_bookmaker.tex}
 
 \subsection{Product-Level Summaries by Bookmaker}
 
-\input{../MetricOdds/latex_tables/overround_BetMGM.tex}
+\input{latex_tables/overround_BetMGM.tex}
 
-\input{../MetricOdds/latex_tables/overround_BetRivers.tex}
+\input{latex_tables/overround_BetRivers.tex}
 
-\input{../MetricOdds/latex_tables/overround_Caesars.tex}
+\input{latex_tables/overround_Caesars.tex}
 
-\input{../MetricOdds/latex_tables/overround_DraftKings.tex}
+\input{latex_tables/overround_DraftKings.tex}
 
-\input{../MetricOdds/latex_tables/overround_FanDuel.tex}
+\input{latex_tables/overround_FanDuel.tex}
 
-\input{../MetricOdds/latex_tables/overround_William_Hill_US.tex}
+\input{latex_tables/overround_William_Hill_US.tex}
 
 % Start methodology after all summary tables.
 \clearpage
@@ -47,11 +47,11 @@
 \subsection{Construction of the Quoted Overround}
 
 The analysis measures combined Over/Under pricing using the excess
-overround. Each observation pairs a sportsbook's Over and Under quotes
-for the same game, player, prop market, threshold, and recorded observation
-time. The baseline uses half-point thresholds to avoid integer-threshold
-pushes. Incomplete pairs are excluded, while the original prices and
-update timestamps are retained.
+overround. We pair each sportsbook's Over and Under quotes for the
+same game, player, passing market, threshold, and recorded snapshot.
+The regression drops 64 rows with a missing overround. Nearly all
+thresholds end in .5; five retained observations do not. We keep the
+original prices and market update times.
 
 Let $A_{cbts}$ denote American odds for contract $c$, sportsbook $b$,
 observation time $t$, and side $s \in \{O,U\}$. Decimal odds, including
@@ -76,13 +76,13 @@ Following the conventional calculation discussed by Hegarty and Whelan
 -1.
 \end{equation}
 
-For reporting and estimation, the variable is expressed in
-percentage-point units:
+For the summary tables and regression, we multiply the overround by 100:
 \begin{equation}
 \operatorname{OR}^{\mathrm{pp}}_{cbt}
 =
 100 \operatorname{OR}_{cbt}.
 \end{equation}
+
 
 For example, American odds of $-110$ on both sides produce decimal odds
 of approximately $1.9091$, giving
@@ -91,67 +91,73 @@ $\operatorname{OR}^{\mathrm{pp}}_{cbt}=4.7619$.
 Hegarty and Whelan use the term overround for the sum of inverse decimal
 odds; equation~\eqref{eq:overround} measures its excess above one.
 
-The constructed variable summarizes the combined quoted pricing of the
-two outcomes. Comparisons across sportsbooks match the game, player,
-market, threshold, and recorded observation time, allowing differences
-in the quoted overround to be examined for identical contracts.
-
 \paragraph{Limitations.}
-The excess overround is a quoted pricing measure rather than a direct
-estimate of realized sportsbook profits or expected bettor losses.
-Hegarty and Whelan \cite[pp.~5--7]{hegartywhelan2025} explain that the
-conventional expected-return interpretation relies on equal expected
-returns across outcomes and can fail under unequal margin allocation.
-The measure also conceals how prices are distributed between Over and
-Under, so the original side-specific prices are retained.
-Exact-threshold matching restricts findings to shared contracts and may
-exclude important threshold disagreements. Common observation timestamps
-do not guarantee simultaneous updates or executable offers; quote ages
-therefore require examination. Observed pricing differences alone do
-not identify customer demand, risk exposure, or firms' motives.
+The quoted overround is not a measure of realized sportsbook profit.
+It does not necessarily equal a bettor's expected loss either: Hegarty
+and Whelan \cite[pp.~5--7]{hegartywhelan2025} explain that this
+interpretation depends on how the margin is spread across outcomes.
+The single number also hides whether more margin is placed on Over or
+Under, so we retain the separate prices.
+
+The regression below does not match the same contract across
+sportsbooks. A difference may therefore reflect the mix of games,
+players, thresholds, and snapshot times in each book's data. A shared
+snapshot time does not mean that quotes were updated together or were
+available to bet at that moment. The estimates describe differences
+in posted prices; they do not explain why the books set them.
 
 % Keep the regression specification and its explanation together.
 \clearpage
 \subsection{Bookmaker and Product Differences in Overround}
 
-To examine whether differences between DraftKings and FanDuel vary
-across player-prop products, we estimate:
+We fit one OLS regression to compare the six sportsbooks across the
+six passing markets:
 \begin{equation}
 \label{eq:bookmaker_market}
-\mathrm{Overround}_{i}
-=
-\alpha
-+ \delta D_i
-+ \sum_{m \in \mathcal{M}^{*}} \beta_m M_{im}
-+ \sum_{m \in \mathcal{M}^{*}} \theta_m (D_i M_{im})
-+ \varepsilon_i.
+\begin{aligned}
+\operatorname{OR}^{\mathrm{pp}}_{i}
+={}&\alpha
++\sum_{b\in\mathcal{B}^{*}}\gamma_b B_{ib}
++\sum_{m\in\mathcal{M}^{*}}\beta_m M_{im} \\
+&+\sum_{b\in\mathcal{B}^{*}}\sum_{m\in\mathcal{M}^{*}}
+\theta_{bm}(B_{ib}M_{im})+\varepsilon_i.
+\end{aligned}
 \end{equation}
 
-Each observation $i$ is a complete Over/Under quote pair for a given
-sportsbook, game, player, product, threshold, and recorded observation
-time. The dependent variable is excess overround multiplied by 100,
-so coefficient differences are measured in percentage points.
-The sample contains observations from DraftKings and FanDuel.
-The indicator $D_i$ equals one for DraftKings and zero for FanDuel.
-The indicator $M_{im}$ equals one if observation $i$ belongs to
-product $m$ and zero otherwise. Passing completions is the reference
-product, and $\mathcal{M}^{*}$ contains the remaining products.
+An observation is one sportsbook's Over/Under pair at a recorded
+snapshot. The regression uses 159,591 observations with a nonmissing
+overround. The outcome $\operatorname{OR}^{\mathrm{pp}}_{i}$ is overround in
+percentage points. $B_{ib}$ indicates sportsbook $b$, and $M_{im}$
+indicates market $m$.
 
-The intercept $\alpha$ is FanDuel's mean overround for passing
-completions. The coefficient $\delta$ measures the DraftKings minus
-FanDuel difference for completions. For each other product $m$,
-$\beta_m$ measures its difference from completions at FanDuel.
-The interaction coefficient $\theta_m$ measures how the
-DraftKings--FanDuel difference for product $m$ differs from their
-difference for completions. Consequently, the difference between
-sportsbooks for product $m$ is $\delta+\theta_m$.
+FanDuel and passing completions are the reference categories, so they
+are left out of the sums. The intercept is FanDuel's mean overround for
+completions. A sportsbook coefficient compares that book with FanDuel
+for completions. A market coefficient compares that market with
+completions at FanDuel. An interaction shows how a book's gap with
+FanDuel changes in that market. For any market other than completions,
+add the sportsbook and interaction coefficients to get the book's
+difference from FanDuel.
 
-This specification describes differences in observed overrounds.
-Without additional controls or contract matching, the estimates may
-also reflect differences in the games, players, thresholds, and
-observation times represented in each sportsbook's product sample.
-They do not identify causal effects or the reasons for firms'
-pricing decisions.
+Each bookmaker--market combination has its own fitted mean. The
+coefficients and standard errors are in percentage points. The model
+uses all available quotes rather than matching identical contracts
+across books. We cluster standard errors by game because one game
+contributes quotes from several sportsbooks and snapshots, and an
+unchanged price can appear at more than one snapshot. Clustering allows
+these observations to be related when calculating uncertainty. It
+does not remove repeated quotes or change their weight in OLS. The
+estimates describe price differences, not causal effects.
+
+\clearpage
+\section{Regression Results}
+FanDuel passing completions is the reference group. The Caesars
+coefficient of $0.828$ means that Caesars' mean overround for
+completions is $0.828$ percentage points above FanDuel's. For passing
+yards, add the Caesars--yards interaction: $0.828+0.608=1.436$
+percentage points above FanDuel's passing-yards mean.
+
+\input{latex_tables/regression_overround.tex}
 
 \begin{thebibliography}{9}
 
