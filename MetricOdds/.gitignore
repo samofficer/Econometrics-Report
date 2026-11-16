@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+*.toc
+~$*.xlsx
+__pycache__/
+*.py[cod]
